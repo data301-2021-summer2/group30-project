@@ -1,2 +1,2 @@
-#Raw Data
-This directory consists of the original raw data.
+# Raw Data
+This directory contains the original raw data.

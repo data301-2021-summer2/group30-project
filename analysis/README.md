@@ -1,2 +1,2 @@
-#Analysis
-This directory will contain draft Jupyter Notebooks
+# Analysis
+This directory contains all Jupyter Notebooks files
