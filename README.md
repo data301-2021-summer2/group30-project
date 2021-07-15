@@ -1,4 +1,4 @@
-# Group 30 - {Analyzing Police Killings Dataset}
+# Group 30 - Analyzing Police Killings Dataset
 
 - Your title can change over time.
 
