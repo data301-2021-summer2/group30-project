@@ -20,8 +20,8 @@ This data is taken from the Guardian’s database on police killings and the cen
 - Seravin Suteja: I am really excited and passionate about the topic that I will be analysing in this project!
 
 ## References
-
-{Add your stuff here}
 https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/about-the-counted
+
 https://www.census.gov/programs-surveys/acs/about.html
+
 https://github.com/fivethirtyeight/data/tree/master/police-killings
