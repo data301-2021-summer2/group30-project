@@ -1,2 +1,2 @@
 # Image
-This directory contains external images.
+This directory contains external images used.
