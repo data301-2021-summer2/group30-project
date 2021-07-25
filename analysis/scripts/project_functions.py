@@ -20,7 +20,7 @@ def load_and_process(url_or_path_to_csv_file):
     
     #method chain 2 (Process Data - deal with outliers and create new columns)
 
-    age_labels = [f"{i} - {i+9}" for i in range(10,80,10)]
+    age_labels = [f"{i} - {i+9}" for i in range(0,80,10)]
     pop_labels = [f"{i} - {i+1000}" for i in range(0,13000,1000)]
     income_labels = [f"{i} - {i+1000}" for i in range(5000,87000,1000)]
     urate_labels = ['0.0 - 0.05', '0.06 - 0.08', '0.09 - 0.11', '0.12 - 0.15', '0.15 - 0.51']
@@ -28,7 +28,7 @@ def load_and_process(url_or_path_to_csv_file):
     df2 =(
         df1
         .query("pop < 15000")
-        .assign(age_group = lambda x: pd.cut(x['age'], range(10, 90, 10), right=False,labels=age_labels))
+        .assign(age_group = lambda x: pd.cut(x['age'], range(0, 90, 10), right=False,labels=age_labels))
         .assign(pop_group = lambda df: pd.cut(df['pop'], range(0, 14000, 1000), right=False, labels=pop_labels))
         .assign(income_bracket = lambda df:pd.cut(df['income'], range(5000,88000,1000), right=False, labels=income_labels))
         .assign(urate_level = lambda df: pd.qcut(x = df['urate'], q= 5, precision = 2, labels=urate_labels))
