@@ -33,5 +33,6 @@ def load_and_process(url_or_path_to_csv_file):
         .assign(income_bracket = lambda df:pd.cut(df['income'], range(5000,88000,1000), right=False, labels=income_labels))
         .assign(urate_level = lambda df: pd.qcut(x = df['urate'], q= 5, precision = 2, labels=urate_labels))
         .assign(SW_category = lambda df:pd.qcut(x = df['share_white'], q= 5, precision = 1, labels=SW_labels))
+        .reset_index(drop=True) 
     )
     return df2
