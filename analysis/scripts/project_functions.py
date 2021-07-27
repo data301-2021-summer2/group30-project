@@ -16,14 +16,12 @@ def load_and_process(url_or_path_to_csv_file):
         .rename(columns={"p_income": "income"})
         .dropna()
         .query("age != 'Unknown' & cause != 'Unknown' & armed != 'Unknown' & income != '-'")
-        .replace('White','Caucasian')
-        .replace('Black','African American')
     )
     df1['age'] = pd.to_numeric(df1['age'])
     df1['income'] = pd.to_numeric(df1['income'])
     df1['share_white'] = pd.to_numeric(df1['share_white'])
     
-    #method chain 2 (Process Data - deal with outliers and create new columns)
+    #method chain 2 (Process Data - deal with outliers, create new columns, and replace values)
 
     age_labels = [f"{i} - {i+9}" for i in range(0,80,10)]
     pop_labels = [f"{i} - {i+1000}" for i in range(0,13000,1000)]
@@ -37,5 +35,7 @@ def load_and_process(url_or_path_to_csv_file):
         .assign(income_bracket = lambda df:pd.cut(df['income'], range(5000,88000,1000), right=False, labels=income_labels))
         .assign(SW_category = lambda df:pd.qcut(x = df['share_white'], q= 5, precision = 1, labels=SW_labels))
         .reset_index(drop=True) 
+        .replace('White','Caucasian')
+        .replace('Black','African American')
     )
     return df2
