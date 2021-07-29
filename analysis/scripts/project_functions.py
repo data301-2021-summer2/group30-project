@@ -7,6 +7,24 @@ import matplotlib.pyplot as plt
 import pandas_profiling
 
 def load_and_process(url_or_path_to_csv_file, encoding_input = "ISO-8859-1"):
+    """
+    Load and process a csv file.
+    
+    Load a csv file and process the data through method chains used to answer research questions.
+    
+    Parameters
+    ----------
+    url_or_path_to_csv_file : str
+        URL or path to the csv file to load and process
+    
+    encoding_input : str, optional (default = "ISO-8859-1")
+        the encoding for loading the data
+        
+    Returns
+    -------
+    dataFrame
+        the cleaned dataFrame
+    """
     
     #method chain 1 (load and Clean data - remove columns and rows, rename columns, deal with missing data, and format data)
 
