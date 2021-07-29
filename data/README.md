@@ -8,15 +8,15 @@ Information on columns used:
 - gender = Gender of victim
 - raceethnicity = Race/ethnicity of victim
 - month = Month the police killing accident happened
-- cause = Cause of death
 - armed = How and whether the victim was armed
 - pop = Tract population
-- share_white = Share of the population that is non-Hispanic white
+- share_Caucasian = Share of the population that is non-Hispanic white
 - income = Tract-level median personal income
+- urate = Tract-level unemployment rate
 - age_group = Age category
-- pop-size = Tract population category
-- income_bracket = Tract-level personal income category
-- SW_level = Share of population that is non-Hispanic white cateogry
+- pop_group = Tract population category
+- income_bracket = Tract-level median personal income category
+- SC_category = Share of population that is non-Hispanic white category
     - Categories:
         - (-0.1, 19.0] = Low   
         - (19.0, 43.6] = Medium   
