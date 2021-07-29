@@ -6,12 +6,12 @@ import sys
 import matplotlib.pyplot as plt
 import pandas_profiling
 
-def load_and_process(url_or_path_to_csv_file):
+def load_and_process(url_or_path_to_csv_file, encoding_input = "ISO-8859-1"):
     
     #method chain 1 (load and Clean data - remove columns and rows, rename columns, deal with missing data, and format data)
 
     df1 = (
-        pd.read_csv(url_or_path_to_csv_file, encoding = "ISO-8859-1")
+        pd.read_csv(url_or_path_to_csv_file, encoding = encoding_input)
         .drop(['name', 'day', 'year','h_income', 'cause', 'state', 'county_income', 'comp_income','county_bucket', 'nat_bucket', 'share_black', 'share_hispanic', 'college', 'streetaddress', 'pov', 'city', 'latitude', 'longitude', 'state_fp', 'county_fp', 'tract_ce', 'geo_id', 'county_id', 'namelsad', 'lawenforcementagency'], axis =1)
         .rename(columns={"p_income": "income"})
         .rename(columns = {"share_white": "share_Caucasian"})
