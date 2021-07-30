@@ -26,7 +26,7 @@ def load_and_process(url_or_path_to_csv_file, encoding_input = "ISO-8859-1"):
         the cleaned dataFrame
     """
     
-    #method chain 1 (load and Clean data - remove columns and rows, rename columns, deal with missing data, and format data)
+    # Method chain 1 (load and Clean data - remove columns and rows, rename columns, deal with missing data, and format data)
 
     df1 = (
         pd.read_csv(url_or_path_to_csv_file, encoding = encoding_input)
@@ -40,7 +40,7 @@ def load_and_process(url_or_path_to_csv_file, encoding_input = "ISO-8859-1"):
     df1['income'] = pd.to_numeric(df1['income'])
     df1['share_Caucasian'] = pd.to_numeric(df1['share_Caucasian'])
     
-    #method chain 2 (Process Data - deal with outliers, create new columns, and replace values)
+    # Method chain 2 (Process Data - deal with outliers, create new columns, and replace values)
 
     age_labels = [f"{i} - {i+9}" for i in range(0,80,10)]
     pop_labels = [f"{i} - {i+1000}" for i in range(0,13000,1000)]
