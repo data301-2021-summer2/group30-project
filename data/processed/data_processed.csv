@@ -1,0 +1,453 @@
+age,gender,raceethnicity,month,armed,pop,share_Caucasian,income,urate,age_group,pop_group,income_bracket,SC_category
+16,Male,African American,February,No,3779,60.5,28375,0.097686375,10 - 19,3000 - 4000,28000 - 29000,Half
+27,Male,Caucasian,April,No,2769,53.8,14678,0.065723794,20 - 29,2000 - 3000,14000 - 15000,Half
+26,Male,Caucasian,March,No,4079,73.8,25286,0.166293142,20 - 29,4000 - 5000,25000 - 26000,High
+25,Male,Hispanic/Latino,March,Firearm,4343,1.2,17194,0.124827269,20 - 29,4000 - 5000,17000 - 18000,Low
+29,Male,Caucasian,March,No,6809,92.5,33954,0.063549832,20 - 29,6000 - 7000,33000 - 34000,Very High
+29,Male,Caucasian,March,No,4682,7.0,15523,0.073651452,20 - 29,4000 - 5000,15000 - 16000,Low
+22,Male,Hispanic/Latino,March,Firearm,5027,50.8,25949,0.131461131,20 - 29,5000 - 6000,25000 - 26000,Half
+35,Male,Hispanic/Latino,March,Non-lethal firearm,5238,8.6,25043,0.094346979,30 - 39,5000 - 6000,25000 - 26000,Low
+44,Male,Caucasian,January,Firearm,4832,14.6,16778,0.140832976,40 - 49,4000 - 5000,16000 - 17000,Low
+31,Male,Caucasian,February,Other,3795,63.6,22005,0.174167417,30 - 39,3000 - 4000,22000 - 23000,Half
+76,Male,Caucasian,April,Knife,2786,51.4,26916,0.041085271,70 - 79,2000 - 3000,26000 - 27000,Half
+40,Male,Caucasian,May,No,9429,67.3,51186,0.057580779,40 - 49,9000 - 10000,51000 - 52000,High
+31,Male,Caucasian,February,Firearm,3413,83.7,25563,0.054470101,30 - 39,3000 - 4000,25000 - 26000,Very High
+23,Male,Caucasian,April,Non-lethal firearm,5573,64.0,25998,0.067321178,20 - 29,5000 - 6000,25000 - 26000,Half
+39,Male,Hispanic/Latino,May,Firearm,6315,37.5,20027,0.088225858,30 - 39,6000 - 7000,20000 - 21000,Medium
+25,Female,African American,April,Vehicle,1997,30.5,23205,0.229482072,20 - 29,1000 - 2000,23000 - 24000,Medium
+54,Male,Hispanic/Latino,May,Firearm,3651,52.2,29881,0.011916111,50 - 59,3000 - 4000,29000 - 30000,Half
+24,Female,Caucasian,March,Firearm,5286,44.8,41676,0.040850588,20 - 29,5000 - 6000,41000 - 42000,Half
+57,Male,African American,January,No,5740,31.3,37455,0.063268366,50 - 59,5000 - 6000,37000 - 38000,Medium
+21,Male,Hispanic/Latino,February,Vehicle,4303,28.3,27384,0.115890508,20 - 29,4000 - 5000,27000 - 28000,Medium
+42,Male,African American,January,No,5213,92.3,23342,0.035221496,40 - 49,5000 - 6000,23000 - 24000,Very High
+21,Male,Hispanic/Latino,February,Other,4149,40.3,22719,0.178185745,20 - 29,4000 - 5000,22000 - 23000,Medium
+36,Male,Caucasian,March,Firearm,6460,17.8,18376,0.262976968,30 - 39,6000 - 7000,18000 - 19000,Low
+26,Male,Caucasian,April,Firearm,3348,77.7,17695,0.011335013,20 - 29,3000 - 4000,17000 - 18000,High
+49,Male,Caucasian,March,Firearm,5824,78.1,21610,0.131158917,40 - 49,5000 - 6000,21000 - 22000,High
+54,Male,Caucasian,January,Firearm,4521,94.0,32921,0.087385483,50 - 59,4000 - 5000,32000 - 33000,Very High
+26,Male,Caucasian,April,Firearm,3202,7.7,22441,0.098980204,20 - 29,3000 - 4000,22000 - 23000,Low
+48,Male,African American,March,Firearm,6172,86.2,23926,0.176148796,40 - 49,6000 - 7000,23000 - 24000,Very High
+33,Male,Hispanic/Latino,January,Firearm,4160,6.0,13231,0.14461316,30 - 39,4000 - 5000,13000 - 14000,Low
+21,Male,Hispanic/Latino,April,Knife,7886,56.6,19599,0.17323741,20 - 29,7000 - 8000,19000 - 20000,Half
+41,Male,African American,March,Firearm,4924,1.6,14995,0.22039801,40 - 49,4000 - 5000,14000 - 15000,Low
+48,Male,African American,February,Vehicle,4228,0.6,22968,0.218520333,40 - 49,4000 - 5000,22000 - 23000,Low
+36,Male,African American,May,Knife,6018,89.9,34698,0.063658099,30 - 39,6000 - 7000,34000 - 35000,Very High
+41,Male,Hispanic/Latino,February,Firearm,5601,93.7,22085,0.133676093,40 - 49,5000 - 6000,22000 - 23000,Very High
+29,Male,African American,May,Knife,2742,42.0,21868,0.206855081,20 - 29,2000 - 3000,21000 - 22000,Medium
+27,Male,African American,March,No,3305,60.1,32142,0.170409511,20 - 29,3000 - 4000,32000 - 33000,Half
+45,Male,Caucasian,February,Firearm,4838,65.1,21769,0.11037302,40 - 49,4000 - 5000,21000 - 22000,High
+32,Male,Hispanic/Latino,March,Firearm,2584,4.3,15373,0.123766135,30 - 39,2000 - 3000,15000 - 16000,Low
+35,Male,Hispanic/Latino,February,Firearm,6747,16.5,16558,0.131743119,30 - 39,6000 - 7000,16000 - 17000,Low
+36,Male,African American,January,Firearm,3245,53.7,17853,0.055732484,30 - 39,3000 - 4000,17000 - 18000,Half
+35,Male,African American,March,Knife,4947,94.1,20248,0.150121065,30 - 39,4000 - 5000,20000 - 21000,Very High
+40,Male,Hispanic/Latino,March,Vehicle,5887,33.9,17225,0.142746615,40 - 49,5000 - 6000,17000 - 18000,Medium
+18,Male,Caucasian,May,Firearm,5004,83.9,26667,0.115461847,10 - 19,5000 - 6000,26000 - 27000,Very High
+34,Female,Caucasian,January,Firearm,4465,72.1,15488,0.105963791,30 - 39,4000 - 5000,15000 - 16000,High
+39,Male,Hispanic/Latino,March,Knife,8623,4.2,19978,0.123624444,30 - 39,8000 - 9000,19000 - 20000,Low
+21,Male,Hispanic/Latino,March,Other,3013,3.3,18995,0.109816972,20 - 29,3000 - 4000,18000 - 19000,Low
+62,Male,African American,March,No,3580,5.1,14256,0.23108747,60 - 69,3000 - 4000,14000 - 15000,Low
+43,Female,Caucasian,February,Firearm,5876,59.9,18843,0.195510204,40 - 49,5000 - 6000,18000 - 19000,Half
+44,Male,Caucasian,May,Firearm,5203,15.8,21170,0.076500588,40 - 49,5000 - 6000,21000 - 22000,Low
+29,Male,Caucasian,April,Firearm,4601,39.3,20901,0.042686101,20 - 29,4000 - 5000,20000 - 21000,Medium
+35,Male,African American,March,Firearm,2664,60.6,86023,0.019665683,30 - 39,2000 - 3000,86000 - 87000,Half
+50,Male,Caucasian,February,Knife,8874,57.0,22105,0.080136986,50 - 59,8000 - 9000,22000 - 23000,Half
+18,Male,African American,March,Firearm,2182,0.0,14560,0.204280156,10 - 19,2000 - 3000,14000 - 15000,Low
+25,Male,Caucasian,April,Firearm,6701,74.9,27813,0.047407913,20 - 29,6000 - 7000,27000 - 28000,High
+31,Male,Caucasian,March,Knife,9680,89.0,28125,0.095137421,30 - 39,9000 - 10000,28000 - 29000,Very High
+29,Male,African American,May,Firearm,2860,70.7,42931,0.12679524,20 - 29,2000 - 3000,42000 - 43000,High
+49,Male,Caucasian,March,Firearm,5057,79.7,20407,0.150479846,40 - 49,5000 - 6000,20000 - 21000,High
+23,Male,Unknown,January,Firearm,4179,2.0,18047,0.125765426,20 - 29,4000 - 5000,18000 - 19000,Low
+45,Male,Caucasian,February,Knife,3880,69.7,35827,0.044583333,40 - 49,3000 - 4000,35000 - 36000,High
+26,Male,African American,January,Firearm,3078,1.9,17893,0.214183381,20 - 29,3000 - 4000,17000 - 18000,Low
+35,Male,Caucasian,January,Knife,3770,94.9,31080,0.041356877,30 - 39,3000 - 4000,31000 - 32000,Very High
+34,Male,Caucasian,February,Non-lethal firearm,4689,93.2,25130,0.110323438,30 - 39,4000 - 5000,25000 - 26000,Very High
+46,Male,Asian/Pacific Islander,May,No,1392,43.0,35788,0.055155875,40 - 49,1000 - 2000,35000 - 36000,Medium
+29,Male,African American,March,Knife,10220,86.2,28556,0.053564237,20 - 29,10000 - 11000,28000 - 29000,Very High
+39,Male,African American,February,Firearm,4828,73.2,27031,0.081150488,30 - 39,4000 - 5000,27000 - 28000,High
+28,Male,Asian/Pacific Islander,March,Knife,3568,12.2,11805,0.348008386,20 - 29,3000 - 4000,11000 - 12000,Low
+51,Male,Hispanic/Latino,April,Knife,3035,46.0,20428,0.103244838,50 - 59,3000 - 4000,20000 - 21000,Half
+67,Male,Caucasian,January,Firearm,2422,95.9,12840,0.312611012,60 - 69,2000 - 3000,12000 - 13000,Very High
+53,Male,Caucasian,May,Firearm,5102,94.4,31274,0.099182004,50 - 59,5000 - 6000,31000 - 32000,Very High
+25,Male,African American,May,No,2560,0.0,14177,0.258064516,20 - 29,2000 - 3000,14000 - 15000,Low
+30,Male,African American,March,Knife,2621,18.1,13805,0.155444722,30 - 39,2000 - 3000,13000 - 14000,Low
+24,Male,Hispanic/Latino,April,No,4049,6.5,16689,0.062886598,20 - 29,4000 - 5000,16000 - 17000,Low
+35,Male,Caucasian,February,Firearm,2367,40.7,14746,0.214501511,30 - 39,2000 - 3000,14000 - 15000,Medium
+43,Male,African American,March,Vehicle,5222,18.0,8206,0.439590444,40 - 49,5000 - 6000,8000 - 9000,Low
+24,Male,Caucasian,February,Firearm,5304,71.5,22409,0.095290859,20 - 29,5000 - 6000,22000 - 23000,High
+29,Male,Caucasian,January,Firearm,3357,41.0,37579,0.107042254,20 - 29,3000 - 4000,37000 - 38000,Medium
+38,Male,African American,May,Firearm,3548,88.7,33294,0.032068063,30 - 39,3000 - 4000,33000 - 34000,Very High
+31,Male,Caucasian,April,No,3886,67.2,22080,0.092469018,30 - 39,3000 - 4000,22000 - 23000,High
+36,Male,Caucasian,March,Other,7687,61.8,21049,0.138262782,30 - 39,7000 - 8000,21000 - 22000,Half
+38,Male,Caucasian,April,Firearm,6987,78.2,21845,0.103721571,30 - 39,6000 - 7000,21000 - 22000,High
+53,Male,Caucasian,March,No,3292,94.9,23583,0.13483871,50 - 59,3000 - 4000,23000 - 24000,Very High
+24,Male,Caucasian,February,Knife,6457,62.7,14816,0.071107364,20 - 29,6000 - 7000,14000 - 15000,Half
+26,Male,Caucasian,January,Firearm,10229,32.9,22235,0.068076536,20 - 29,10000 - 11000,22000 - 23000,Medium
+28,Male,African American,February,Firearm,4377,82.8,21264,0.034616881,20 - 29,4000 - 5000,21000 - 22000,Very High
+34,Female,Caucasian,February,Knife,3520,63.6,21667,0.140276302,30 - 39,3000 - 4000,21000 - 22000,Half
+28,Male,African American,May,Firearm,11284,31.8,22472,0.149261335,20 - 29,11000 - 12000,22000 - 23000,Medium
+40,Male,African American,May,Firearm,3121,3.8,25799,0.159026599,40 - 49,3000 - 4000,25000 - 26000,Low
+51,Male,African American,May,No,4941,1.5,21344,0.106880138,50 - 59,4000 - 5000,21000 - 22000,Low
+44,Male,Caucasian,April,Firearm,4293,87.8,30465,0.025311025,40 - 49,4000 - 5000,30000 - 31000,Very High
+25,Male,Hispanic/Latino,January,Firearm,4917,8.5,19146,0.144497608,20 - 29,4000 - 5000,19000 - 20000,Low
+56,Male,Caucasian,February,Knife,8205,69.3,38593,0.079104478,50 - 59,8000 - 9000,38000 - 39000,High
+37,Male,Hispanic/Latino,April,Firearm,3531,51.6,21626,0.131736527,30 - 39,3000 - 4000,21000 - 22000,Half
+58,Male,Caucasian,April,Firearm,11794,62.5,24749,0.12539185,50 - 59,11000 - 12000,24000 - 25000,Half
+39,Male,Caucasian,February,Firearm,2314,55.5,16218,0.093378608,30 - 39,2000 - 3000,16000 - 17000,Half
+37,Male,Hispanic/Latino,February,No,3887,49.2,22833,0.188067445,30 - 39,3000 - 4000,22000 - 23000,Half
+35,Male,African American,April,Knife,4904,23.7,39122,0.1,30 - 39,4000 - 5000,39000 - 40000,Medium
+26,Male,African American,January,Firearm,1625,17.4,11157,0.309882747,20 - 29,1000 - 2000,11000 - 12000,Low
+47,Male,African American,March,Firearm,1812,43.6,22857,0.203271028,40 - 49,1000 - 2000,22000 - 23000,Half
+31,Male,African American,April,Firearm,1970,41.5,12109,0.348777349,30 - 39,1000 - 2000,12000 - 13000,Medium
+60,Male,Caucasian,May,No,5787,65.4,22385,0.148903424,60 - 69,5000 - 6000,22000 - 23000,High
+32,Male,African American,April,No,2023,40.4,20610,0.166843783,30 - 39,2000 - 3000,20000 - 21000,Medium
+45,Male,Caucasian,January,Non-lethal firearm,3481,88.9,10987,0.091570649,40 - 49,3000 - 4000,10000 - 11000,Very High
+42,Male,Hispanic/Latino,February,Firearm,5059,75.3,21474,0.155357805,40 - 49,5000 - 6000,21000 - 22000,High
+17,Male,Caucasian,May,Firearm,2291,74.0,21109,0.079276773,10 - 19,2000 - 3000,21000 - 22000,High
+22,Male,Hispanic/Latino,May,Firearm,3864,20.4,18438,0.131071191,20 - 29,3000 - 4000,18000 - 19000,Medium
+33,Male,Hispanic/Latino,January,Firearm,4934,5.7,12741,0.151145038,30 - 39,4000 - 5000,12000 - 13000,Low
+18,Male,Caucasian,May,No,5100,88.2,30061,0.038598999,10 - 19,5000 - 6000,30000 - 31000,Very High
+39,Male,Caucasian,April,Firearm,4596,94.1,29488,0.145936982,30 - 39,4000 - 5000,29000 - 30000,Very High
+59,Male,Caucasian,February,Firearm,4487,92.2,30491,0.034010601,50 - 59,4000 - 5000,30000 - 31000,Very High
+33,Male,Caucasian,April,Firearm,4745,44.7,18370,0.11886697,30 - 39,4000 - 5000,18000 - 19000,Half
+58,Male,Caucasian,April,Firearm,2991,94.3,24348,0.037341299,50 - 59,2000 - 3000,24000 - 25000,Very High
+58,Male,Caucasian,May,No,4968,95.7,23883,0.158176944,50 - 59,4000 - 5000,23000 - 24000,Very High
+47,Male,Caucasian,March,Firearm,3403,51.3,15373,0.192203083,40 - 49,3000 - 4000,15000 - 16000,Half
+41,Male,Caucasian,March,Other,4066,76.8,41609,0.071680376,40 - 49,4000 - 5000,41000 - 42000,High
+64,Male,Caucasian,February,Firearm,4225,22.5,21130,0.068592058,60 - 69,4000 - 5000,21000 - 22000,Medium
+45,Male,Caucasian,April,Firearm,4791,9.5,19598,0.11815301,40 - 49,4000 - 5000,19000 - 20000,Low
+53,Female,Caucasian,March,Firearm,4643,87.1,33869,0.035865793,50 - 59,4000 - 5000,33000 - 34000,Very High
+24,Male,Caucasian,March,Knife,6056,54.9,16983,0.116172169,20 - 29,6000 - 7000,16000 - 17000,Half
+48,Male,African American,May,Firearm,4232,10.8,23944,0.057540884,40 - 49,4000 - 5000,23000 - 24000,Low
+29,Male,African American,January,No,6074,3.2,20254,0.160730056,20 - 29,6000 - 7000,20000 - 21000,Low
+40,Male,Hispanic/Latino,May,Firearm,5169,0.9,15656,0.176021554,40 - 49,5000 - 6000,15000 - 16000,Low
+34,Male,Caucasian,May,Vehicle,5029,47.3,26928,0.056382146,30 - 39,5000 - 6000,26000 - 27000,Half
+21,Male,African American,March,Firearm,8222,28.9,30784,0.109368376,20 - 29,8000 - 9000,30000 - 31000,Medium
+45,Male,African American,February,Firearm,4044,0.4,14256,0.172051696,40 - 49,4000 - 5000,14000 - 15000,Low
+25,Male,African American,April,Firearm,3085,19.0,18257,0.018193225,20 - 29,3000 - 4000,18000 - 19000,Medium
+17,Male,Caucasian,March,Non-lethal firearm,3751,96.1,32088,0.090425532,10 - 19,3000 - 4000,32000 - 33000,Very High
+24,Male,African American,March,Other,6461,23.6,26846,0.107110979,20 - 29,6000 - 7000,26000 - 27000,Medium
+42,Male,African American,January,Knife,4542,86.8,36099,0.024411135,40 - 49,4000 - 5000,36000 - 37000,Very High
+29,Male,African American,February,Firearm,5072,37.5,22193,0.175749894,20 - 29,5000 - 6000,22000 - 23000,Medium
+42,Male,African American,April,Knife,2156,54.9,19031,0.111002921,40 - 49,2000 - 3000,19000 - 20000,Half
+30,Male,African American,March,Firearm,6106,55.0,28490,0.0509487,30 - 39,6000 - 7000,28000 - 29000,Half
+29,Male,African American,April,Firearm,2733,76.2,21858,0.087258687,20 - 29,2000 - 3000,21000 - 22000,High
+39,Male,African American,April,Firearm,5335,9.3,14520,0.125672372,30 - 39,5000 - 6000,14000 - 15000,Low
+63,Male,Caucasian,April,Non-lethal firearm,3721,83.5,25135,0.104347826,60 - 69,3000 - 4000,25000 - 26000,Very High
+49,Male,Caucasian,March,Firearm,6604,94.3,21837,0.105180534,40 - 49,6000 - 7000,21000 - 22000,Very High
+41,Male,African American,April,Firearm,3700,70.6,19755,0.131529264,40 - 49,3000 - 4000,19000 - 20000,High
+27,Male,African American,January,Other,7499,21.5,20623,0.121461408,20 - 29,7000 - 8000,20000 - 21000,Medium
+30,Male,Caucasian,February,No,5994,91.1,51071,0.058623619,30 - 39,5000 - 6000,51000 - 52000,Very High
+60,Male,Caucasian,April,Knife,8023,25.2,21342,0.09619801,60 - 69,8000 - 9000,21000 - 22000,Medium
+77,Male,African American,March,No,3708,22.2,13968,0.145048815,70 - 79,3000 - 4000,13000 - 14000,Medium
+19,Male,Unknown,May,No,5206,65.0,16415,0.216194332,10 - 19,5000 - 6000,16000 - 17000,High
+37,Male,Hispanic/Latino,March,Firearm,5950,15.6,24026,0.160571809,30 - 39,5000 - 6000,24000 - 25000,Low
+54,Male,African American,January,Firearm,3070,11.3,37922,0.067278287,50 - 59,3000 - 4000,37000 - 38000,Low
+29,Male,Hispanic/Latino,April,Firearm,2886,48.3,17632,0.216848674,20 - 29,2000 - 3000,17000 - 18000,Half
+30,Male,African American,May,No,4775,34.7,31009,0.092148913,30 - 39,4000 - 5000,31000 - 32000,Medium
+24,Male,Hispanic/Latino,May,Knife,6844,43.0,35008,0.032626816,20 - 29,6000 - 7000,35000 - 36000,Medium
+21,Male,Caucasian,March,Firearm,5206,65.0,16415,0.216194332,20 - 29,5000 - 6000,16000 - 17000,High
+44,Male,African American,April,Firearm,3300,52.2,16953,0.080686695,40 - 49,3000 - 4000,16000 - 17000,Half
+40,Male,Caucasian,May,Firearm,5269,68.6,20644,0.059301769,40 - 49,5000 - 6000,20000 - 21000,High
+32,Male,Caucasian,April,Knife,4681,84.1,31930,0.053372149,30 - 39,4000 - 5000,31000 - 32000,Very High
+22,Male,Hispanic/Latino,April,Knife,5921,7.9,27255,0.05323741,20 - 29,5000 - 6000,27000 - 28000,Low
+43,Male,Caucasian,April,Firearm,3082,20.6,19343,0.12,40 - 49,3000 - 4000,19000 - 20000,Medium
+52,Male,Hispanic/Latino,April,Knife,7528,12.6,22177,0.135651629,50 - 59,7000 - 8000,22000 - 23000,Low
+27,Male,Hispanic/Latino,February,No,9699,0.5,16620,0.065989848,20 - 29,9000 - 10000,16000 - 17000,Low
+34,Male,Caucasian,April,Vehicle,4356,67.9,27273,0.078817734,30 - 39,4000 - 5000,27000 - 28000,High
+20,Male,Caucasian,March,No,6613,84.7,26675,0.133622126,20 - 29,6000 - 7000,26000 - 27000,Very High
+25,Male,African American,March,Firearm,6493,11.1,18976,0.206338726,20 - 29,6000 - 7000,18000 - 19000,Low
+24,Male,African American,April,Knife,4074,63.1,37028,0.082673703,20 - 29,4000 - 5000,37000 - 38000,Half
+20,Male,Unknown,May,Firearm,4863,46.4,31776,0.086558761,20 - 29,4000 - 5000,31000 - 32000,Half
+46,Male,Caucasian,February,Firearm,4720,66.2,18363,0.078163166,40 - 49,4000 - 5000,18000 - 19000,High
+42,Male,Caucasian,February,Firearm,4284,70.2,23716,0.086389961,40 - 49,4000 - 5000,23000 - 24000,High
+43,Male,Caucasian,February,Firearm,4726,39.3,23444,0.163898117,40 - 49,4000 - 5000,23000 - 24000,Medium
+41,Male,African American,April,No,4412,21.2,30261,0.081424936,40 - 49,4000 - 5000,30000 - 31000,Medium
+59,Male,Caucasian,March,No,4411,34.2,25030,0.138454667,50 - 59,4000 - 5000,25000 - 26000,Medium
+25,Male,African American,April,Firearm,3544,0.1,14227,0.254367575,20 - 29,3000 - 4000,14000 - 15000,Low
+42,Male,Caucasian,April,Firearm,2674,56.7,23467,0.090163934,40 - 49,2000 - 3000,23000 - 24000,Half
+64,Male,Caucasian,March,Firearm,1911,66.2,21261,0.091334895,60 - 69,1000 - 2000,21000 - 22000,High
+24,Male,Caucasian,May,Knife,5383,86.9,41377,0.049786629,20 - 29,5000 - 6000,41000 - 42000,Very High
+63,Male,Caucasian,April,No,2650,69.1,18397,0.086882453,60 - 69,2000 - 3000,18000 - 19000,High
+56,Male,Caucasian,March,No,4040,80.6,40529,0.057553957,50 - 59,4000 - 5000,40000 - 41000,High
+60,Male,Caucasian,March,No,6460,96.3,22384,0.075280112,60 - 69,6000 - 7000,22000 - 23000,Very High
+54,Male,Caucasian,March,Firearm,6971,82.8,23683,0.073079325,50 - 59,6000 - 7000,23000 - 24000,Very High
+37,Male,African American,February,No,5823,57.8,20405,0.04467354,30 - 39,5000 - 6000,20000 - 21000,Half
+22,Male,Caucasian,April,Firearm,12351,74.2,27745,0.108825481,20 - 29,12000 - 13000,27000 - 28000,High
+39,Male,Caucasian,March,Firearm,7338,61.4,36727,0.086255656,30 - 39,7000 - 8000,36000 - 37000,Half
+45,Male,Caucasian,April,Knife,4239,84.3,21693,0.114788437,40 - 49,4000 - 5000,21000 - 22000,Very High
+57,Male,Caucasian,May,No,3422,89.0,20760,0.066384181,50 - 59,3000 - 4000,20000 - 21000,Very High
+42,Male,Caucasian,March,Firearm,3255,99.6,26643,0.093187661,40 - 49,3000 - 4000,26000 - 27000,Very High
+19,Male,Hispanic/Latino,April,No,4424,4.0,17223,0.171334432,10 - 19,4000 - 5000,17000 - 18000,Low
+26,Male,African American,February,Knife,3754,33.1,14932,0.12745682,20 - 29,3000 - 4000,14000 - 15000,Medium
+34,Male,Caucasian,February,No,6466,97.3,18243,0.096869245,30 - 39,6000 - 7000,18000 - 19000,Very High
+69,Male,Caucasian,January,No,2143,94.2,16615,0.205128205,60 - 69,2000 - 3000,16000 - 17000,Very High
+64,Female,Asian/Pacific Islander,March,No,3358,44.1,27432,0.100585418,60 - 69,3000 - 4000,27000 - 28000,Half
+35,Male,Asian/Pacific Islander,February,No,7538,4.6,21306,0.104712042,30 - 39,7000 - 8000,21000 - 22000,Low
+40,Male,African American,February,No,2929,33.2,20836,0.195104392,40 - 49,2000 - 3000,20000 - 21000,Medium
+19,Male,African American,January,Firearm,1325,0.2,14048,0.507614213,10 - 19,1000 - 2000,14000 - 15000,Low
+27,Male,Hispanic/Latino,April,No,2665,86.2,18727,0.203891051,20 - 29,2000 - 3000,18000 - 19000,Very High
+37,Male,Hispanic/Latino,February,Firearm,2537,16.0,17433,0.153279786,30 - 39,2000 - 3000,17000 - 18000,Low
+17,Male,Caucasian,February,Knife,1404,69.6,14504,0.260663507,10 - 19,1000 - 2000,14000 - 15000,High
+39,Male,African American,March,Firearm,732,56.7,11338,0.305194805,30 - 39,0 - 1000,11000 - 12000,Half
+74,Male,African American,February,Firearm,4049,33.3,15489,0.19297235,70 - 79,4000 - 5000,15000 - 16000,Medium
+42,Male,Caucasian,January,Firearm,3745,87.2,30391,0.03653323,40 - 49,3000 - 4000,30000 - 31000,Very High
+47,Male,Caucasian,June,No,4447,42.0,18238,0.097790055,40 - 49,4000 - 5000,18000 - 19000,Medium
+43,Male,Caucasian,May,Knife,8668,85.5,38810,0.092042385,40 - 49,8000 - 9000,38000 - 39000,Very High
+46,Male,Caucasian,March,No,2892,94.4,39179,0.041666667,40 - 49,2000 - 3000,39000 - 40000,Very High
+44,Male,Caucasian,March,Firearm,4696,96.5,30489,0.09765625,40 - 49,4000 - 5000,30000 - 31000,Very High
+31,Male,Caucasian,March,Other,3636,36.5,22255,0.139391056,30 - 39,3000 - 4000,22000 - 23000,Medium
+47,Male,Caucasian,May,Firearm,4911,96.8,24705,0.065677966,40 - 49,4000 - 5000,24000 - 25000,Very High
+41,Male,Hispanic/Latino,March,Firearm,3524,73.8,41719,0.066012002,40 - 49,3000 - 4000,41000 - 42000,High
+43,Male,Caucasian,March,Vehicle,2712,63.2,20213,0.119248218,40 - 49,2000 - 3000,20000 - 21000,Half
+40,Male,Unknown,May,Non-lethal firearm,5737,89.6,22947,0.187595323,40 - 49,5000 - 6000,22000 - 23000,Very High
+32,Male,African American,May,Firearm,6851,62.2,30906,0.08035982,30 - 39,6000 - 7000,30000 - 31000,Half
+31,Male,African American,March,Vehicle,1862,5.4,10219,0.27734375,30 - 39,1000 - 2000,10000 - 11000,Low
+20,Male,Caucasian,March,Firearm,8196,79.4,22021,0.12704918,20 - 29,8000 - 9000,22000 - 23000,High
+20,Female,African American,February,Firearm,2986,8.4,11184,0.422321429,20 - 29,2000 - 3000,11000 - 12000,Low
+33,Male,Caucasian,April,No,7471,70.9,19808,0.108317215,30 - 39,7000 - 8000,19000 - 20000,High
+22,Male,African American,April,Other,678,9.9,18029,0.20361991,20 - 29,0 - 1000,18000 - 19000,Low
+41,Male,Caucasian,February,No,6941,58.6,18975,0.061612903,40 - 49,6000 - 7000,18000 - 19000,Half
+41,Male,African American,May,No,8810,35.3,37476,0.066434996,40 - 49,8000 - 9000,37000 - 38000,Medium
+32,Male,Caucasian,April,Knife,5938,62.5,19868,0.089311334,30 - 39,5000 - 6000,19000 - 20000,Half
+16,Male,Caucasian,February,Firearm,5437,38.0,25865,0.115929459,10 - 19,5000 - 6000,25000 - 26000,Medium
+29,Male,African American,March,Knife,4296,72.5,28397,0.092623405,20 - 29,4000 - 5000,28000 - 29000,High
+47,Male,Caucasian,March,Firearm,1354,28.7,12297,0.132231405,40 - 49,1000 - 2000,12000 - 13000,Medium
+53,Male,African American,April,Other,4523,39.3,19423,0.105973025,50 - 59,4000 - 5000,19000 - 20000,Medium
+18,Male,African American,April,No,1781,1.0,26314,0.191593353,10 - 19,1000 - 2000,26000 - 27000,Low
+47,Male,Caucasian,March,Firearm,6740,99.4,15289,0.096566524,40 - 49,6000 - 7000,15000 - 16000,Very High
+34,Male,Caucasian,January,No,4748,83.3,30625,0.018841912,30 - 39,4000 - 5000,30000 - 31000,Very High
+36,Male,Caucasian,May,Firearm,6084,56.8,29063,0.140740741,30 - 39,6000 - 7000,29000 - 30000,Half
+63,Male,Caucasian,March,Firearm,7883,51.1,36696,0.110093792,60 - 69,7000 - 8000,36000 - 37000,Half
+36,Male,Caucasian,March,No,6993,64.1,35194,0.063364345,30 - 39,6000 - 7000,35000 - 36000,Half
+27,Male,African American,March,Firearm,6384,59.9,17493,0.151768733,20 - 29,6000 - 7000,17000 - 18000,Half
+28,Male,African American,February,Vehicle,4498,56.5,19218,0.133175195,20 - 29,4000 - 5000,19000 - 20000,Half
+33,Male,African American,January,No,4419,71.0,16616,0.145665323,30 - 39,4000 - 5000,16000 - 17000,High
+32,Male,African American,May,No,2875,85.7,37967,0.044805195,30 - 39,2000 - 3000,37000 - 38000,Very High
+42,Male,Caucasian,February,Knife,3436,60.3,26001,0.072277228,40 - 49,3000 - 4000,26000 - 27000,Half
+31,Male,Caucasian,April,Firearm,4923,87.3,27355,0.030340815,30 - 39,4000 - 5000,27000 - 28000,Very High
+17,Female,Hispanic/Latino,January,Firearm,4293,38.8,32602,0.096314908,10 - 19,4000 - 5000,32000 - 33000,Medium
+28,Female,Unknown,February,Firearm,6202,87.4,20860,0.151329243,20 - 29,6000 - 7000,20000 - 21000,Very High
+24,Male,Caucasian,May,Firearm,4302,50.9,20396,0.082046758,20 - 29,4000 - 5000,20000 - 21000,Half
+71,Male,Unknown,January,Firearm,2979,67.9,18750,0.137774413,70 - 79,2000 - 3000,18000 - 19000,High
+51,Male,African American,February,No,5506,40.2,21988,0.140606992,50 - 59,5000 - 6000,21000 - 22000,Medium
+28,Male,Hispanic/Latino,February,Other,4579,30.6,23243,0.149219467,20 - 29,4000 - 5000,23000 - 24000,Medium
+53,Male,Caucasian,April,Firearm,3307,97.1,48922,0.021902017,50 - 59,3000 - 4000,48000 - 49000,Very High
+54,Male,Caucasian,March,No,3042,90.0,23940,0.116955446,50 - 59,3000 - 4000,23000 - 24000,Very High
+45,Male,Caucasian,January,Firearm,5683,20.6,22681,0.091877986,40 - 49,5000 - 6000,22000 - 23000,Medium
+33,Male,Caucasian,May,Other,3522,90.5,27385,0.114509804,30 - 39,3000 - 4000,27000 - 28000,Very High
+48,Male,Caucasian,January,Firearm,3238,75.4,24076,0.170554692,40 - 49,3000 - 4000,24000 - 25000,High
+34,Male,Caucasian,January,Firearm,3404,63.9,34326,0.050728277,30 - 39,3000 - 4000,34000 - 35000,Half
+23,Male,Hispanic/Latino,January,Knife,4020,45.0,22016,0.106899903,20 - 29,4000 - 5000,22000 - 23000,Half
+35,Male,Caucasian,February,Firearm,5651,71.2,23378,0.119515253,30 - 39,5000 - 6000,23000 - 24000,High
+33,Male,Hispanic/Latino,February,Knife,2619,50.4,32902,0.096503497,30 - 39,2000 - 3000,32000 - 33000,Half
+32,Male,Caucasian,January,Firearm,2732,59.2,45333,0.067204301,30 - 39,2000 - 3000,45000 - 46000,Half
+52,Male,Caucasian,May,Firearm,5977,89.3,32466,0.085316847,50 - 59,5000 - 6000,32000 - 33000,Very High
+30,Male,Caucasian,April,No,6081,1.5,16670,0.086378738,30 - 39,6000 - 7000,16000 - 17000,Low
+23,Male,Caucasian,February,Firearm,6230,32.9,26030,0.102047449,20 - 29,6000 - 7000,26000 - 27000,Medium
+35,Male,Caucasian,May,Knife,4227,79.9,22158,0.07388664,30 - 39,4000 - 5000,22000 - 23000,High
+42,Male,African American,March,No,5947,41.5,14765,0.106456044,40 - 49,5000 - 6000,14000 - 15000,Medium
+37,Male,Caucasian,February,No,3660,67.9,20769,0.129227053,30 - 39,3000 - 4000,20000 - 21000,High
+56,Male,Hispanic/Latino,January,No,4966,24.3,15511,0.087265136,50 - 59,4000 - 5000,15000 - 16000,Medium
+36,Male,Hispanic/Latino,January,Disputed,4759,34.1,28062,0.160147262,30 - 39,4000 - 5000,28000 - 29000,Medium
+27,Male,Hispanic/Latino,April,Firearm,13987,5.1,15480,0.151374509,20 - 29,,15000 - 16000,Low
+30,Male,Caucasian,February,Firearm,4716,76.9,23633,0.08816521,30 - 39,4000 - 5000,23000 - 24000,High
+31,Male,Caucasian,January,Firearm,2680,79.9,27172,0.095054592,30 - 39,2000 - 3000,27000 - 28000,High
+46,Male,Caucasian,February,Firearm,3748,29.6,17213,0.127546072,40 - 49,3000 - 4000,17000 - 18000,Medium
+51,Male,Caucasian,April,Firearm,2808,76.4,19316,0.159594096,50 - 59,2000 - 3000,19000 - 20000,High
+72,Male,Unknown,May,Firearm,7956,14.9,24332,0.099892819,70 - 79,7000 - 8000,24000 - 25000,Low
+28,Male,Caucasian,April,Knife,3859,31.8,22628,0.176044568,20 - 29,3000 - 4000,22000 - 23000,Medium
+63,Male,Caucasian,March,Firearm,6257,63.1,30661,0.05121876,60 - 69,6000 - 7000,30000 - 31000,Half
+28,Male,Caucasian,April,Firearm,5153,27.6,30908,0.120577121,20 - 29,5000 - 6000,30000 - 31000,Medium
+33,Male,Hispanic/Latino,April,Knife,5442,52.8,22995,0.118041583,30 - 39,5000 - 6000,22000 - 23000,Half
+24,Male,Hispanic/Latino,January,Knife,1363,46.9,22734,0.043478261,20 - 29,1000 - 2000,22000 - 23000,Half
+27,Male,Caucasian,April,Firearm,4792,82.7,19474,0.085856304,20 - 29,4000 - 5000,19000 - 20000,High
+24,Male,Native American,March,Firearm,5808,4.3,13130,0.262736536,20 - 29,5000 - 6000,13000 - 14000,Low
+28,Male,Caucasian,March,Firearm,4264,37.7,23280,0.106712565,20 - 29,4000 - 5000,23000 - 24000,Medium
+17,Male,African American,April,Firearm,3111,26.6,21955,0.273263434,10 - 19,3000 - 4000,21000 - 22000,Medium
+46,Female,Caucasian,April,Vehicle,4082,83.3,33918,0.065811966,40 - 49,4000 - 5000,33000 - 34000,Very High
+52,Male,African American,April,Firearm,3535,45.7,19136,0.059414226,50 - 59,3000 - 4000,19000 - 20000,Half
+39,Male,African American,January,Vehicle,3219,37.7,25279,0.1340882,30 - 39,3000 - 4000,25000 - 26000,Medium
+49,Female,Caucasian,March,Non-lethal firearm,3803,38.6,23974,0.104332953,40 - 49,3000 - 4000,23000 - 24000,Medium
+30,Male,African American,May,No,5863,61.9,29893,0.039571006,30 - 39,5000 - 6000,29000 - 30000,Half
+51,Male,Caucasian,April,No,3817,75.3,23250,0.107897153,50 - 59,3000 - 4000,23000 - 24000,High
+16,Male,African American,March,Firearm,4294,5.2,14754,0.232041049,10 - 19,4000 - 5000,14000 - 15000,Low
+18,Male,Caucasian,January,Non-lethal firearm,3014,68.0,16463,0.105769231,10 - 19,3000 - 4000,16000 - 17000,High
+22,Male,Hispanic/Latino,January,No,4378,60.2,32211,0.069218871,20 - 29,4000 - 5000,32000 - 33000,Half
+40,Male,African American,May,Firearm,8081,67.6,25418,0.136045259,40 - 49,8000 - 9000,25000 - 26000,High
+61,Male,Caucasian,February,Knife,3045,97.2,18760,0.115207373,60 - 69,3000 - 4000,18000 - 19000,Very High
+52,Male,Caucasian,May,Firearm,13561,64.4,34176,0.063839559,50 - 59,,34000 - 35000,High
+51,Male,Caucasian,February,Firearm,6142,61.8,25226,0.125633232,50 - 59,6000 - 7000,25000 - 26000,Half
+36,Male,African American,May,Firearm,4702,75.3,36305,0.096800997,30 - 39,4000 - 5000,36000 - 37000,High
+36,Male,Caucasian,May,No,7753,79.9,31491,0.03559965,30 - 39,7000 - 8000,31000 - 32000,High
+59,Male,Caucasian,April,No,3276,71.0,41145,0.100581395,50 - 59,3000 - 4000,41000 - 42000,High
+17,Female,Caucasian,January,Firearm,4045,44.8,14332,0.13706706,10 - 19,4000 - 5000,14000 - 15000,Half
+18,Male,Caucasian,May,No,3088,92.3,26583,0.091408935,10 - 19,3000 - 4000,26000 - 27000,Very High
+41,Male,Caucasian,February,Other,1683,90.5,23750,0.075596817,40 - 49,1000 - 2000,23000 - 24000,Very High
+33,Male,Native American,January,Knife,5733,25.5,20075,0.129310345,30 - 39,5000 - 6000,20000 - 21000,Medium
+25,Male,African American,February,Firearm,4945,5.9,26067,0.116955017,20 - 29,4000 - 5000,26000 - 27000,Low
+23,Male,African American,February,No,3641,28.5,17693,0.201671309,20 - 29,3000 - 4000,17000 - 18000,Medium
+47,Male,African American,January,Firearm,4667,34.5,18978,0.102179837,40 - 49,4000 - 5000,18000 - 19000,Medium
+58,Male,Caucasian,March,Firearm,5006,91.8,19645,0.095274683,50 - 59,5000 - 6000,19000 - 20000,Very High
+47,Male,Caucasian,January,No,4978,69.3,29959,0.135547919,40 - 49,4000 - 5000,29000 - 30000,High
+34,Male,African American,May,Firearm,3715,1.6,35089,0.120465116,30 - 39,3000 - 4000,35000 - 36000,Low
+28,Male,Caucasian,January,Firearm,7864,87.5,28125,0.049460432,20 - 29,7000 - 8000,28000 - 29000,Very High
+37,Male,African American,May,No,4502,75.4,17901,0.099949006,30 - 39,4000 - 5000,17000 - 18000,High
+87,Male,Caucasian,January,Firearm,3947,91.0,27077,0.133264463,,3000 - 4000,27000 - 28000,Very High
+39,Male,Asian/Pacific Islander,April,Firearm,4630,92.7,54036,0.051483733,30 - 39,4000 - 5000,54000 - 55000,Very High
+27,Male,Hispanic/Latino,April,Knife,4192,44.7,28730,0.164906988,20 - 29,4000 - 5000,28000 - 29000,Half
+35,Male,Hispanic/Latino,April,Firearm,4371,2.4,12376,0.157422081,30 - 39,4000 - 5000,12000 - 13000,Low
+36,Male,African American,April,Vehicle,1471,1.4,20072,0.224820144,30 - 39,1000 - 2000,20000 - 21000,Low
+24,Male,African American,January,Vehicle,2391,18.9,11425,0.223255814,20 - 29,2000 - 3000,11000 - 12000,Low
+26,Male,African American,May,No,4283,56.4,22537,0.095988539,20 - 29,4000 - 5000,22000 - 23000,Half
+34,Male,African American,January,Firearm,7340,19.2,26119,0.09905795,30 - 39,7000 - 8000,26000 - 27000,Medium
+51,Male,Caucasian,April,Other,2917,69.4,5457,0.028318584,50 - 59,2000 - 3000,5000 - 6000,High
+49,Male,Caucasian,April,Firearm,4083,62.0,17474,0.238070806,40 - 49,4000 - 5000,17000 - 18000,Half
+41,Male,Caucasian,May,Firearm,5199,49.7,15542,0.19002079,40 - 49,5000 - 6000,15000 - 16000,Half
+54,Male,Caucasian,April,No,3954,80.7,24858,0.098895582,50 - 59,3000 - 4000,24000 - 25000,High
+36,Male,African American,February,Firearm,6876,39.8,19029,0.112596554,30 - 39,6000 - 7000,19000 - 20000,Medium
+26,Male,African American,May,Firearm,3441,5.8,13143,0.294452347,20 - 29,3000 - 4000,13000 - 14000,Low
+35,Male,Asian/Pacific Islander,January,Firearm,3140,32.8,17026,0.235502122,30 - 39,3000 - 4000,17000 - 18000,Medium
+22,Male,African American,January,Other,5502,47.5,25190,0.119607843,20 - 29,5000 - 6000,25000 - 26000,Half
+27,Male,Caucasian,February,Other,4517,88.5,19400,0.140121439,20 - 29,4000 - 5000,19000 - 20000,Very High
+42,Male,Caucasian,May,Firearm,5372,62.1,30332,0.107025846,40 - 49,5000 - 6000,30000 - 31000,Half
+32,Male,Caucasian,January,Other,5731,73.5,64657,0.050441655,30 - 39,5000 - 6000,64000 - 65000,High
+32,Male,Caucasian,February,Other,3021,94.7,33875,0.069385271,30 - 39,3000 - 4000,33000 - 34000,Very High
+25,Male,Caucasian,March,Firearm,2485,71.7,25839,0.059773829,20 - 29,2000 - 3000,25000 - 26000,High
+26,Female,African American,March,No,3172,16.1,29511,0.086549063,20 - 29,3000 - 4000,29000 - 30000,Low
+53,Male,Caucasian,May,No,2911,97.2,21506,0.088392857,50 - 59,2000 - 3000,21000 - 22000,Very High
+26,Male,Caucasian,February,Knife,5726,74.9,20296,0.117797332,20 - 29,5000 - 6000,20000 - 21000,High
+40,Male,Caucasian,April,Non-lethal firearm,8064,90.0,17696,0.053853296,40 - 49,8000 - 9000,17000 - 18000,Very High
+55,Male,Caucasian,May,Firearm,5329,9.7,13939,0.251207729,50 - 59,5000 - 6000,13000 - 14000,Low
+29,Male,Caucasian,January,No,7585,97.1,27917,0.138111888,20 - 29,7000 - 8000,27000 - 28000,Very High
+31,Male,Caucasian,February,No,2816,93.4,13929,0.166007905,30 - 39,2000 - 3000,13000 - 14000,Very High
+19,Male,Caucasian,January,Knife,4189,15.0,30533,0.045591398,10 - 19,4000 - 5000,30000 - 31000,Low
+57,Male,Unknown,April,Firearm,4466,87.2,18472,0.108664773,50 - 59,4000 - 5000,18000 - 19000,Very High
+40,Male,Caucasian,May,Knife,6530,77.2,20297,0.110402355,40 - 49,6000 - 7000,20000 - 21000,High
+35,Male,Caucasian,March,Firearm,4480,40.1,30723,0.137201979,30 - 39,4000 - 5000,30000 - 31000,Medium
+35,Male,Caucasian,May,Firearm,4865,65.6,23011,0.151676206,30 - 39,4000 - 5000,23000 - 24000,High
+39,Male,Hispanic/Latino,January,Firearm,4129,33.3,18022,0.121156494,30 - 39,4000 - 5000,18000 - 19000,Medium
+37,Male,Caucasian,February,No,5456,78.0,49269,0.050305914,30 - 39,5000 - 6000,49000 - 50000,High
+36,Male,Hispanic/Latino,January,Firearm,2377,3.2,14457,0.063807531,30 - 39,2000 - 3000,14000 - 15000,Low
+62,Male,Caucasian,May,Knife,5169,58.2,11405,0.11381323,60 - 69,5000 - 6000,11000 - 12000,Half
+43,Female,African American,March,Firearm,5062,23.3,21008,0.119982921,40 - 49,5000 - 6000,21000 - 22000,Medium
+32,Male,Caucasian,March,Knife,2150,79.0,15892,0.133171913,30 - 39,2000 - 3000,15000 - 16000,High
+34,Male,Asian/Pacific Islander,May,Vehicle,4775,34.7,31009,0.092148913,30 - 39,4000 - 5000,31000 - 32000,Medium
+37,Male,African American,March,No,6415,26.2,21082,0.172646427,30 - 39,6000 - 7000,21000 - 22000,Medium
+37,Female,African American,February,No,7408,58.6,5688,0.016203704,30 - 39,7000 - 8000,5000 - 6000,Half
+33,Male,Caucasian,January,Knife,1977,95.9,21831,0.02987013,30 - 39,1000 - 2000,21000 - 22000,Very High
+35,Male,Caucasian,May,No,6888,73.5,25231,0.08040201,30 - 39,6000 - 7000,25000 - 26000,High
+40,Male,Caucasian,March,No,3776,83.3,21131,0.134320175,40 - 49,3000 - 4000,21000 - 22000,Very High
+21,Male,African American,May,Firearm,5931,14.5,42774,0.056978002,20 - 29,5000 - 6000,42000 - 43000,Low
+30,Male,Caucasian,January,Firearm,3687,49.7,16071,0.127948113,30 - 39,3000 - 4000,16000 - 17000,Half
+23,Male,African American,March,Knife,3574,37.0,45795,0.033260234,20 - 29,3000 - 4000,45000 - 46000,Medium
+26,Male,Native American,January,No,4829,16.3,16012,0.206933333,20 - 29,4000 - 5000,16000 - 17000,Low
+39,Female,Caucasian,May,Firearm,8988,94.4,42519,0.04654387,30 - 39,8000 - 9000,42000 - 43000,Very High
+33,Male,African American,April,Vehicle,4542,46.4,40693,0.047184774,30 - 39,4000 - 5000,40000 - 41000,Half
+34,Female,African American,May,Firearm,8810,35.3,37476,0.066434996,30 - 39,8000 - 9000,37000 - 38000,Medium
+37,Male,African American,January,Firearm,1345,2.1,9353,0.324444444,30 - 39,1000 - 2000,9000 - 10000,Low
+26,Male,Hispanic/Latino,January,Firearm,5747,42.6,22057,0.171932403,20 - 29,5000 - 6000,22000 - 23000,Medium
+24,Male,Hispanic/Latino,January,No,3040,41.8,39531,0.103303862,20 - 29,3000 - 4000,39000 - 40000,Medium
+25,Male,Caucasian,January,Other,7323,5.9,15628,0.265224111,20 - 29,7000 - 8000,15000 - 16000,Low
+31,Male,African American,April,Knife,9738,15.7,25755,0.123324397,30 - 39,9000 - 10000,25000 - 26000,Low
+49,Male,Caucasian,January,Firearm,3902,94.5,36062,0.093385214,40 - 49,3000 - 4000,36000 - 37000,Very High
+59,Male,Caucasian,February,No,8960,28.1,37453,0.138940153,50 - 59,8000 - 9000,37000 - 38000,Medium
+50,Male,Hispanic/Latino,February,No,7556,23.5,17402,0.053399923,50 - 59,7000 - 8000,17000 - 18000,Medium
+37,Male,Caucasian,March,Firearm,7099,10.6,34516,0.108266073,30 - 39,7000 - 8000,34000 - 35000,Low
+28,Male,Caucasian,April,Other,6309,69.7,23844,0.077569308,20 - 29,6000 - 7000,23000 - 24000,High
+26,Male,Hispanic/Latino,January,Firearm,2802,29.8,40387,0.094994312,20 - 29,2000 - 3000,40000 - 41000,Medium
+23,Male,African American,February,Firearm,4866,7.2,22132,0.083946344,20 - 29,4000 - 5000,22000 - 23000,Low
+32,Male,African American,March,Firearm,7621,5.1,17401,0.11842919,30 - 39,7000 - 8000,17000 - 18000,Low
+24,Male,Caucasian,January,Knife,6185,86.7,43458,0.049067982,20 - 29,6000 - 7000,43000 - 44000,Very High
+42,Male,Caucasian,January,Firearm,4908,76.8,14964,0.066425993,40 - 49,4000 - 5000,14000 - 15000,High
+34,Male,Caucasian,May,Firearm,1990,1.1,15556,0.258571429,30 - 39,1000 - 2000,15000 - 16000,Low
+68,Male,Caucasian,January,Other,4836,61.7,28690,0.112132353,60 - 69,4000 - 5000,28000 - 29000,Half
+31,Male,African American,April,Firearm,4321,19.6,18174,0.08373079,30 - 39,4000 - 5000,18000 - 19000,Medium
+83,Male,Caucasian,April,No,5410,82.8,25034,0.066806576,,5000 - 6000,25000 - 26000,Very High
+35,Male,Caucasian,February,Firearm,4017,37.4,20761,0.139742873,30 - 39,4000 - 5000,20000 - 21000,Medium
+29,Male,Hispanic/Latino,March,Firearm,3679,24.2,26047,0.074115665,20 - 29,3000 - 4000,26000 - 27000,Medium
+50,Male,African American,May,Firearm,1271,0.6,11558,0.259259259,50 - 59,1000 - 2000,11000 - 12000,Low
+56,Male,Unknown,April,Firearm,6657,72.8,26741,0.113105925,50 - 59,6000 - 7000,26000 - 27000,High
+43,Male,Caucasian,January,Firearm,6033,47.6,26101,0.064629434,40 - 49,6000 - 7000,26000 - 27000,Half
+38,Male,Caucasian,April,Firearm,5378,89.6,28781,0.045649073,30 - 39,5000 - 6000,28000 - 29000,Very High
+27,Male,African American,March,Firearm,1610,58.6,20995,0.095238095,20 - 29,1000 - 2000,20000 - 21000,Half
+36,Male,Caucasian,May,Firearm,4284,73.6,22348,0.0830373,30 - 39,4000 - 5000,22000 - 23000,High
+55,Male,Caucasian,May,Knife,2186,85.8,23281,0.138248848,50 - 59,2000 - 3000,23000 - 24000,Very High
+36,Male,Caucasian,March,Firearm,3921,36.3,21115,0.117837838,30 - 39,3000 - 4000,21000 - 22000,Medium
+68,Male,Caucasian,January,No,6016,62.3,27875,0.051835853,60 - 69,6000 - 7000,27000 - 28000,Half
+61,Male,Caucasian,January,No,7456,53.3,31969,0.081466763,60 - 69,7000 - 8000,31000 - 32000,Half
+46,Male,Caucasian,May,No,3721,82.5,20153,0.083866837,40 - 49,3000 - 4000,20000 - 21000,High
+47,Male,Caucasian,February,Firearm,5375,86.8,30540,0.065487392,40 - 49,5000 - 6000,30000 - 31000,Very High
+26,Male,Caucasian,March,Vehicle,4430,95.5,18133,0.177073171,20 - 29,4000 - 5000,18000 - 19000,Very High
+37,Male,African American,April,No,2666,27.6,32242,0.081118881,30 - 39,2000 - 3000,32000 - 33000,Medium
+22,Male,Hispanic/Latino,March,Knife,4315,49.0,30472,0.11952862,20 - 29,4000 - 5000,30000 - 31000,Half
+18,Male,Hispanic/Latino,January,Knife,2355,75.2,25977,0.081262592,10 - 19,2000 - 3000,25000 - 26000,High
+39,Male,Hispanic/Latino,April,No,5158,1.7,14162,0.218400688,30 - 39,5000 - 6000,14000 - 15000,Low
+49,Male,Caucasian,February,Other,2923,9.9,12930,0.127254509,40 - 49,2000 - 3000,12000 - 13000,Low
+23,Male,African American,January,Firearm,3300,52.2,16953,0.080686695,20 - 29,3000 - 4000,16000 - 17000,Half
+47,Male,Hispanic/Latino,April,Firearm,4932,30.1,21130,0.078510317,40 - 49,4000 - 5000,21000 - 22000,Medium
+32,Male,African American,January,Knife,6118,47.3,24236,0.12814412,30 - 39,6000 - 7000,24000 - 25000,Half
+45,Male,African American,May,No,4279,9.5,19151,0.212271153,40 - 49,4000 - 5000,19000 - 20000,Low
+51,Male,Caucasian,February,Knife,3999,2.3,20900,0.057938719,50 - 59,3000 - 4000,20000 - 21000,Low
+31,Male,Hispanic/Latino,February,Vehicle,5917,68.9,43062,0.06846473,30 - 39,5000 - 6000,43000 - 44000,High
+54,Male,Caucasian,February,Firearm,6747,16.5,16558,0.131743119,50 - 59,6000 - 7000,16000 - 17000,Low
+31,Male,Caucasian,March,Firearm,6001,80.9,21374,0.149595213,30 - 39,6000 - 7000,21000 - 22000,High
+23,Male,Hispanic/Latino,March,Knife,3755,13.0,15632,0.122121424,20 - 29,3000 - 4000,15000 - 16000,Low
+29,Male,Hispanic/Latino,January,No,4993,8.5,19746,0.140275387,20 - 29,4000 - 5000,19000 - 20000,Low
+28,Male,Hispanic/Latino,February,Firearm,4579,30.6,23243,0.149219467,20 - 29,4000 - 5000,23000 - 24000,Medium
+31,Male,African American,May,No,2459,57.8,23143,0.108108108,30 - 39,2000 - 3000,23000 - 24000,Half
+24,Male,Hispanic/Latino,April,Firearm,5449,4.8,15812,0.118733509,20 - 29,5000 - 6000,15000 - 16000,Low
+27,Male,Caucasian,February,No,8776,67.0,44430,0.069404151,20 - 29,8000 - 9000,44000 - 45000,High
+57,Male,Caucasian,March,Firearm,4026,8.5,17467,0.115249119,50 - 59,4000 - 5000,17000 - 18000,Low
+39,Male,Unknown,May,Non-lethal firearm,5447,86.7,34053,0.097529259,30 - 39,5000 - 6000,34000 - 35000,Very High
+38,Male,Caucasian,May,Firearm,5543,81.1,33110,0.071646341,30 - 39,5000 - 6000,33000 - 34000,High
+34,Male,Hispanic/Latino,March,Firearm,7914,58.6,44585,0.085368162,30 - 39,7000 - 8000,44000 - 45000,Half
+39,Male,Caucasian,March,Other,5791,86.3,19149,0.168279344,30 - 39,5000 - 6000,19000 - 20000,Very High
+20,Male,African American,March,Firearm,3362,14.3,16065,0.152272727,20 - 29,3000 - 4000,16000 - 17000,Low
+35,Male,Caucasian,May,No,2747,54.5,24352,0.078651685,30 - 39,2000 - 3000,24000 - 25000,Half
+36,Male,Caucasian,April,Firearm,7010,65.8,29056,0.135890272,30 - 39,7000 - 8000,29000 - 30000,High
+38,Male,Asian/Pacific Islander,March,No,403,26.1,21509,0.231788079,30 - 39,0 - 1000,21000 - 22000,Medium
+33,Male,Caucasian,May,Firearm,7371,49.5,20164,0.090909091,30 - 39,7000 - 8000,20000 - 21000,Half
+57,Male,Asian/Pacific Islander,January,Firearm,3081,37.8,26143,0.101226994,50 - 59,3000 - 4000,26000 - 27000,Medium
+38,Male,African American,February,Firearm,3681,44.4,21908,0.052918942,30 - 39,3000 - 4000,21000 - 22000,Half
+72,Male,Caucasian,April,Firearm,2868,66.6,19044,0.109414758,70 - 79,2000 - 3000,19000 - 20000,High
+37,Female,Caucasian,February,No,1548,45.5,15686,0.138238573,30 - 39,1000 - 2000,15000 - 16000,Half
+47,Male,Caucasian,May,Knife,2758,58.0,21658,0.12909699,40 - 49,2000 - 3000,21000 - 22000,Half
+43,Male,Caucasian,April,No,7590,77.3,20685,0.098382749,40 - 49,7000 - 8000,20000 - 21000,High
+37,Male,Caucasian,March,Firearm,6145,71.5,20423,0.109457093,30 - 39,6000 - 7000,20000 - 21000,High
+75,Male,Caucasian,January,Knife,1753,42.2,29741,0.075431034,70 - 79,1000 - 2000,29000 - 30000,Medium
+21,Male,African American,January,Firearm,1925,36.9,15252,0.094752187,20 - 29,1000 - 2000,15000 - 16000,Medium
+20,Male,African American,April,Firearm,3501,5.7,12961,0.181212525,20 - 29,3000 - 4000,12000 - 13000,Low
+29,Male,African American,March,Firearm,2326,49.4,11576,0.177252585,20 - 29,2000 - 3000,11000 - 12000,Half
+37,Male,African American,March,Knife,3737,77.4,31524,0.134502924,30 - 39,3000 - 4000,31000 - 32000,High
+41,Male,African American,February,Firearm,3630,68.7,26566,0.068774265,40 - 49,3000 - 4000,26000 - 27000,High
+22,Male,African American,April,Knife,5246,1.8,16745,0.289340102,20 - 29,5000 - 6000,16000 - 17000,Low
+23,Male,African American,April,Knife,7671,7.5,18371,0.268621236,20 - 29,7000 - 8000,18000 - 19000,Low
+64,Male,African American,March,No,1548,49.8,15871,0.448074679,60 - 69,1000 - 2000,15000 - 16000,Half
+34,Male,African American,March,Firearm,2150,1.0,11656,0.299757282,30 - 39,2000 - 3000,11000 - 12000,Low
+49,Male,Caucasian,January,Firearm,11719,89.4,36216,0.046353872,40 - 49,11000 - 12000,36000 - 37000,Very High
+32,Male,Asian/Pacific Islander,May,Knife,3416,5.7,17367,0.015197568,30 - 39,3000 - 4000,17000 - 18000,Low
+25,Male,African American,January,Other,3394,19.9,14989,0.081601232,20 - 29,3000 - 4000,14000 - 15000,Medium
+39,Female,Caucasian,January,Firearm,2646,88.0,36394,0.028415961,30 - 39,2000 - 3000,36000 - 37000,Very High
+53,Male,Unknown,January,Non-lethal firearm,4347,68.7,18999,0.064193168,50 - 59,4000 - 5000,18000 - 19000,High
+27,Male,Caucasian,May,Firearm,6462,72.1,26934,0.066055046,20 - 29,6000 - 7000,26000 - 27000,High
+36,Male,Caucasian,January,Firearm,2886,48.3,17632,0.216848674,30 - 39,2000 - 3000,17000 - 18000,Half
+20,Male,African American,April,Firearm,2024,41.3,15498,0.12590799,20 - 29,2000 - 3000,15000 - 16000,Medium
+39,Male,Caucasian,January,Firearm,3565,78.5,27719,0.053739612,30 - 39,3000 - 4000,27000 - 28000,High
+19,Male,African American,March,Firearm,6145,90.7,35028,0.055254849,10 - 19,6000 - 7000,35000 - 36000,Very High
+34,Male,Caucasian,March,Knife,4177,56.9,19921,0.197698745,30 - 39,4000 - 5000,19000 - 20000,Half
+36,Male,Caucasian,March,Firearm,4980,72.2,22213,0.055140187,30 - 39,4000 - 5000,22000 - 23000,High
+34,Male,Caucasian,March,Firearm,2032,72.5,25110,0.05624297,30 - 39,2000 - 3000,25000 - 26000,High
+31,Male,Caucasian,April,No,10818,89.5,27347,0.06899401,30 - 39,10000 - 11000,27000 - 28000,Very High
+45,Male,African American,March,Non-lethal firearm,2657,77.5,35316,0.065342729,40 - 49,2000 - 3000,35000 - 36000,High
+31,Male,Hispanic/Latino,January,No,5065,25.0,29695,0.023561091,30 - 39,5000 - 6000,29000 - 30000,Medium
+28,Male,Hispanic/Latino,March,Firearm,3862,0.3,16940,0.066431095,20 - 29,3000 - 4000,16000 - 17000,Low
+57,Male,Caucasian,February,Firearm,4164,78.5,52896,0.045,50 - 59,4000 - 5000,52000 - 53000,High
+29,Male,African American,March,Other,4996,87.4,27535,0.028934368,20 - 29,4000 - 5000,27000 - 28000,Very High
+50,Male,African American,April,Knife,4110,15.8,14963,0.215909091,50 - 59,4000 - 5000,14000 - 15000,Low
+53,Male,Caucasian,March,No,4547,84.7,42312,0.035916061,50 - 59,4000 - 5000,42000 - 43000,Very High
+59,Male,Unknown,January,Non-lethal firearm,5065,64.3,31470,0.14086629,50 - 59,5000 - 6000,31000 - 32000,High
+18,Male,African American,April,No,1640,40.9,25262,0.152046784,10 - 19,1000 - 2000,25000 - 26000,Medium
+28,Male,Native American,April,Firearm,4154,74.5,18470,0.133650291,20 - 29,4000 - 5000,18000 - 19000,High
+52,Male,Caucasian,March,Firearm,3850,83.2,21175,0.256149733,50 - 59,3000 - 4000,21000 - 22000,Very High
+38,Female,African American,February,Firearm,2544,21.7,26971,0.069601428,30 - 39,2000 - 3000,26000 - 27000,Medium
+48,Male,Unknown,January,Firearm,5177,23.1,33590,0.0809121,40 - 49,5000 - 6000,33000 - 34000,Medium
