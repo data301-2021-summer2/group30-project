@@ -6,6 +6,10 @@
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
+Link to [Milestone 1](https://github.com/data301-2021-summer2/group30-project/blob/main/analysis/Seravin/milestone1.ipynb).
+
+Link to Milestone 2 [Task 1&2](https://github.com/data301-2021-summer2/group30-project/blob/main/analysis/Seravin/Milestone2/Milestone2_task_1%262.ipynb) and [Task 3&4](https://github.com/data301-2021-summer2/group30-project/blob/main/analysis/Seravin/Milestone2/Milestone2_task_3%264.ipynb).
+
 ## Describe your topic/interest in about 150-200 words
 
 Due to the events that occurred in 2020, I am interested to see the statistics around police killings and this dataset allows me to find patterns around it. From the dataset, I am specifically interested in answering: Are there any risk factors that increase the likelihood of  police killing incidents occuring? An example of a risk factor is the victim's age; in other words, does a certain victim age increases or decreases the likelihood for a police killing incident to occur? I want to know the risk factors to understand the situational factors of a police killing accident. I hope that by discovering patterns around police killing incidents, I can educate myself and others on police killing incidents and how to prevent or reduce the occurrence of future police killing incidents. Lastly, I think that this dataset can be used to build a user-facing Dashboard as I can use it to find patterns and statistics that have meaningful visual presentations.
