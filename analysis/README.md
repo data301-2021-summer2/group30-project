@@ -1,5 +1,5 @@
 # Analysis
-This directory contains all Jupyter Notebooks files
+This directory contains all Jupyter Notebooks files.
 
 Sub-Directories:
 - Seravin = Contains draft Jupyter Notebooks
