@@ -1,4 +1,4 @@
-# Group 30 - Analyzing Police Killings Dataset
+# Group 30 - Analyzing Risk Factors for Police Killing Accidents
 
 - Your title can change over time.
 
