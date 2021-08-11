@@ -34,7 +34,7 @@ def load_and_process(url_or_path_to_csv_file, encoding_input = "ISO-8859-1"):
         .rename(columns={"p_income": "income"})
         .rename(columns = {"share_white": "share_Caucasian"})
         .dropna()
-        .query("age != 'Unknown' & armed != 'Unknown' & income != '-'")
+        .query("age != 'Unknown' & armed != 'Unknown' & income != '-' & month != 'June'")
     )
     df1['age'] = pd.to_numeric(df1['age'])
     df1['income'] = pd.to_numeric(df1['income'])

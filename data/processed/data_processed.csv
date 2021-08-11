@@ -82,7 +82,7 @@ age,gender,raceethnicity,month,armed,pop,share_Caucasian,income,urate,age_group,
 53,Male,Caucasian,March,No,3292,94.9,23583,0.13483871,50 - 59,3000 - 4000,23000 - 24000,Very High
 24,Male,Caucasian,February,Knife,6457,62.7,14816,0.071107364,20 - 29,6000 - 7000,14000 - 15000,Half
 26,Male,Caucasian,January,Firearm,10229,32.9,22235,0.068076536,20 - 29,10000 - 11000,22000 - 23000,Medium
-28,Male,African American,February,Firearm,4377,82.8,21264,0.034616881,20 - 29,4000 - 5000,21000 - 22000,Very High
+28,Male,African American,February,Firearm,4377,82.8,21264,0.034616881,20 - 29,4000 - 5000,21000 - 22000,High
 34,Female,Caucasian,February,Knife,3520,63.6,21667,0.140276302,30 - 39,3000 - 4000,21000 - 22000,Half
 28,Male,African American,May,Firearm,11284,31.8,22472,0.149261335,20 - 29,11000 - 12000,22000 - 23000,Medium
 40,Male,African American,May,Firearm,3121,3.8,25799,0.159026599,40 - 49,3000 - 4000,25000 - 26000,Low
@@ -96,7 +96,7 @@ age,gender,raceethnicity,month,armed,pop,share_Caucasian,income,urate,age_group,
 37,Male,Hispanic/Latino,February,No,3887,49.2,22833,0.188067445,30 - 39,3000 - 4000,22000 - 23000,Half
 35,Male,African American,April,Knife,4904,23.7,39122,0.1,30 - 39,4000 - 5000,39000 - 40000,Medium
 26,Male,African American,January,Firearm,1625,17.4,11157,0.309882747,20 - 29,1000 - 2000,11000 - 12000,Low
-47,Male,African American,March,Firearm,1812,43.6,22857,0.203271028,40 - 49,1000 - 2000,22000 - 23000,Half
+47,Male,African American,March,Firearm,1812,43.6,22857,0.203271028,40 - 49,1000 - 2000,22000 - 23000,Medium
 31,Male,African American,April,Firearm,1970,41.5,12109,0.348777349,30 - 39,1000 - 2000,12000 - 13000,Medium
 60,Male,Caucasian,May,No,5787,65.4,22385,0.148903424,60 - 69,5000 - 6000,22000 - 23000,High
 32,Male,African American,April,No,2023,40.4,20610,0.166843783,30 - 39,2000 - 3000,20000 - 21000,Medium
@@ -170,7 +170,7 @@ age,gender,raceethnicity,month,armed,pop,share_Caucasian,income,urate,age_group,
 63,Male,Caucasian,April,No,2650,69.1,18397,0.086882453,60 - 69,2000 - 3000,18000 - 19000,High
 56,Male,Caucasian,March,No,4040,80.6,40529,0.057553957,50 - 59,4000 - 5000,40000 - 41000,High
 60,Male,Caucasian,March,No,6460,96.3,22384,0.075280112,60 - 69,6000 - 7000,22000 - 23000,Very High
-54,Male,Caucasian,March,Firearm,6971,82.8,23683,0.073079325,50 - 59,6000 - 7000,23000 - 24000,Very High
+54,Male,Caucasian,March,Firearm,6971,82.8,23683,0.073079325,50 - 59,6000 - 7000,23000 - 24000,High
 37,Male,African American,February,No,5823,57.8,20405,0.04467354,30 - 39,5000 - 6000,20000 - 21000,Half
 22,Male,Caucasian,April,Firearm,12351,74.2,27745,0.108825481,20 - 29,12000 - 13000,27000 - 28000,High
 39,Male,Caucasian,March,Firearm,7338,61.4,36727,0.086255656,30 - 39,7000 - 8000,36000 - 37000,Half
@@ -191,7 +191,6 @@ age,gender,raceethnicity,month,armed,pop,share_Caucasian,income,urate,age_group,
 39,Male,African American,March,Firearm,732,56.7,11338,0.305194805,30 - 39,0 - 1000,11000 - 12000,Half
 74,Male,African American,February,Firearm,4049,33.3,15489,0.19297235,70 - 79,4000 - 5000,15000 - 16000,Medium
 42,Male,Caucasian,January,Firearm,3745,87.2,30391,0.03653323,40 - 49,3000 - 4000,30000 - 31000,Very High
-47,Male,Caucasian,June,No,4447,42.0,18238,0.097790055,40 - 49,4000 - 5000,18000 - 19000,Medium
 43,Male,Caucasian,May,Knife,8668,85.5,38810,0.092042385,40 - 49,8000 - 9000,38000 - 39000,Very High
 46,Male,Caucasian,March,No,2892,94.4,39179,0.041666667,40 - 49,2000 - 3000,39000 - 40000,Very High
 44,Male,Caucasian,March,Firearm,4696,96.5,30489,0.09765625,40 - 49,4000 - 5000,30000 - 31000,Very High
@@ -362,7 +361,7 @@ age,gender,raceethnicity,month,armed,pop,share_Caucasian,income,urate,age_group,
 34,Male,Caucasian,May,Firearm,1990,1.1,15556,0.258571429,30 - 39,1000 - 2000,15000 - 16000,Low
 68,Male,Caucasian,January,Other,4836,61.7,28690,0.112132353,60 - 69,4000 - 5000,28000 - 29000,Half
 31,Male,African American,April,Firearm,4321,19.6,18174,0.08373079,30 - 39,4000 - 5000,18000 - 19000,Medium
-83,Male,Caucasian,April,No,5410,82.8,25034,0.066806576,,5000 - 6000,25000 - 26000,Very High
+83,Male,Caucasian,April,No,5410,82.8,25034,0.066806576,,5000 - 6000,25000 - 26000,High
 35,Male,Caucasian,February,Firearm,4017,37.4,20761,0.139742873,30 - 39,4000 - 5000,20000 - 21000,Medium
 29,Male,Hispanic/Latino,March,Firearm,3679,24.2,26047,0.074115665,20 - 29,3000 - 4000,26000 - 27000,Medium
 50,Male,African American,May,Firearm,1271,0.6,11558,0.259259259,50 - 59,1000 - 2000,11000 - 12000,Low
@@ -445,7 +444,7 @@ age,gender,raceethnicity,month,armed,pop,share_Caucasian,income,urate,age_group,
 29,Male,African American,March,Other,4996,87.4,27535,0.028934368,20 - 29,4000 - 5000,27000 - 28000,Very High
 50,Male,African American,April,Knife,4110,15.8,14963,0.215909091,50 - 59,4000 - 5000,14000 - 15000,Low
 53,Male,Caucasian,March,No,4547,84.7,42312,0.035916061,50 - 59,4000 - 5000,42000 - 43000,Very High
-59,Male,Unknown,January,Non-lethal firearm,5065,64.3,31470,0.14086629,50 - 59,5000 - 6000,31000 - 32000,High
+59,Male,Unknown,January,Non-lethal firearm,5065,64.3,31470,0.14086629,50 - 59,5000 - 6000,31000 - 32000,Half
 18,Male,African American,April,No,1640,40.9,25262,0.152046784,10 - 19,1000 - 2000,25000 - 26000,Medium
 28,Male,Native American,April,Firearm,4154,74.5,18470,0.133650291,20 - 29,4000 - 5000,18000 - 19000,High
 52,Male,Caucasian,March,Firearm,3850,83.2,21175,0.256149733,50 - 59,3000 - 4000,21000 - 22000,Very High
