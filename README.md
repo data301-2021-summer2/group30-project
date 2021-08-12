@@ -14,6 +14,8 @@ Link to Milestone 3 [Final Jupyter Notebook for Submission](https://github.com/d
 
 Link to Milestone 4 [Dashboard](https://github.com/data301-2021-summer2/group30-project/blob/main/presentation/Police%20Killing%20Incidents%20US%202015%20Dashboard.twb).
 
+Link to Milestone 3 [Explainer Video](https://vimeo.com/586265028/bd8f378f73).
+
 ## Describe your topic/interest in about 150-200 words
 
 Due to the events that occurred in 2020, I am interested to see the statistics around police killings and this dataset allows me to find patterns around it. From the dataset, I am specifically interested in answering: Are there any risk factors that increase the likelihood of  police killing incidents occuring? An example of a risk factor is the victim's age; in other words, does a certain victim age increases or decreases the likelihood for a police killing incident to occur? I want to know the risk factors to understand the situational factors of a police killing accident. I hope that by discovering patterns around police killing incidents, I can educate myself and others on police killing incidents and how to prevent or reduce the occurrence of future police killing incidents. Lastly, I think that this dataset can be used to build a user-facing Dashboard as I can use it to find patterns and statistics that have meaningful visual presentations.
