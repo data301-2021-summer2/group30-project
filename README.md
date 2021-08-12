@@ -14,7 +14,7 @@ Link to Milestone 3 [Final Jupyter Notebook for Submission](https://github.com/d
 
 Link to Milestone 4 [Dashboard](https://github.com/data301-2021-summer2/group30-project/blob/main/presentation/Police%20Killing%20Incidents%20US%202015%20Dashboard.twb).
 
-Link to Milestone 3 [Explainer Video](https://vimeo.com/586265028/bd8f378f73).
+Link to Milestone 4 [Explainer Video](https://vimeo.com/586265028/bd8f378f73).
 
 ## Describe your topic/interest in about 150-200 words
 
