@@ -563,6 +563,15 @@
             </view>
             <mark class='Automatic' />
             <mark-sizing custom-mark-size-in-axis-units='1.0' mark-alignment='mark-alignment-left' mark-sizing-setting='marks-scaling-on' use-custom-mark-size='false' />
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Age (bin):&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:Age (bin):qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>No. of Cases:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[cnt:age:qk]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
           </pane>
         </panes>
         <rows>[federated.1j6lfub0xwpauc13tiqc107t6i88].[cnt:age:qk]</rows>
@@ -664,6 +673,15 @@
               <breakdown value='auto' />
             </view>
             <mark class='Automatic' />
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Armed:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:armed:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>No. of Cases:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[cnt:armed:qk]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
           </pane>
         </panes>
         <rows>[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:armed:nk]</rows>
@@ -784,6 +802,15 @@
               <breakdown value='auto' />
             </view>
             <mark class='Automatic' />
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Gender:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:gender:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>No. of Cases:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[cnt:gender:qk]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
           </pane>
         </panes>
         <rows>[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:gender:nk]</rows>
@@ -886,6 +913,15 @@
             </view>
             <mark class='Automatic' />
             <mark-sizing custom-mark-size-in-axis-units='1.0' mark-alignment='mark-alignment-left' mark-sizing-setting='marks-scaling-on' use-custom-mark-size='false' />
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Income (bin):&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:Income (bin):qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>No. of Cases:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[cnt:income:qk]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
           </pane>
         </panes>
         <rows>[federated.1j6lfub0xwpauc13tiqc107t6i88].[cnt:income:qk]</rows>
@@ -984,6 +1020,15 @@
               <breakdown value='auto' />
             </view>
             <mark class='Automatic' />
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Month:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:month:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>No. of Cases:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[cnt:month:qk]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
           </pane>
         </panes>
         <rows>[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:month:nk]</rows>
@@ -1115,6 +1160,15 @@
             </view>
             <mark class='Automatic' />
             <mark-sizing custom-mark-size-in-axis-units='1.0' mark-alignment='mark-alignment-left' mark-sizing-setting='marks-scaling-on' use-custom-mark-size='false' />
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Population Size (bin):&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:Pop (bin):qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>No. of Cases:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[cnt:pop:qk]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
           </pane>
         </panes>
         <rows>[federated.1j6lfub0xwpauc13tiqc107t6i88].[cnt:pop:qk]</rows>
@@ -1216,6 +1270,15 @@
               <breakdown value='auto' />
             </view>
             <mark class='Automatic' />
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Race/Ethnicity:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:raceethnicity:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>No. of Cases:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[cnt:raceethnicity:qk]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
           </pane>
         </panes>
         <rows>[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:raceethnicity:nk]</rows>
@@ -1409,6 +1472,15 @@
             </view>
             <mark class='Automatic' />
             <mark-sizing custom-mark-size-in-axis-units='1.0' mark-alignment='mark-alignment-left' mark-sizing-setting='marks-scaling-on' use-custom-mark-size='false' />
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>% Share Caucasian (bin):&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:share Caucasian (bin):qk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>No. of Cases:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1j6lfub0xwpauc13tiqc107t6i88].[cnt:share_Caucasian:qk]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
           </pane>
         </panes>
         <rows>[federated.1j6lfub0xwpauc13tiqc107t6i88].[cnt:share_Caucasian:qk]</rows>
@@ -1449,7 +1521,7 @@
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
           <zone h='88516' id='62' param='horz' type-v2='layout-flow' w='99176' x='412' y='10840'>
             <zone h='88516' id='22' type-v2='layout-basic' w='99176' x='412' y='10840'>
-              <zone h='42511' id='11' name='Share_Caucasian' w='18594' x='45963' y='56845'>
+              <zone h='42511' id='11' name='Share_Caucasian' w='18594' x='45962' y='56845'>
                 <zone-style>
                   <format attr='border-color' value='#e6e6e6' />
                   <format attr='border-style' value='solid' />
@@ -1457,7 +1529,7 @@
                   <format attr='margin' value='0' />
                 </zone-style>
               </zone>
-              <zone h='23416' id='12' name='Month' w='35031' x='64557' y='10840'>
+              <zone h='23416' id='12' name='Month' w='35032' x='64556' y='10840'>
                 <zone-style>
                   <format attr='border-color' value='#e6e6e6' />
                   <format attr='border-style' value='solid' />
@@ -1465,7 +1537,7 @@
                   <format attr='margin' value='0' />
                 </zone-style>
               </zone>
-              <zone h='42511' id='10' name='Pop_Size' w='18726' x='27237' y='56845'>
+              <zone h='42511' id='10' name='Pop_Size' w='18726' x='27236' y='56845'>
                 <layout-cache minheight='226' minwidth='167' type-h='scalable' type-w='scalable' />
                 <zone-style>
                   <format attr='border-color' value='#e6e6e6' />
@@ -1474,7 +1546,7 @@
                   <format attr='margin' value='0' />
                 </zone-style>
               </zone>
-              <zone h='46005' id='8' name='Age' w='18726' x='27237' y='10840'>
+              <zone h='46005' id='8' name='Age' w='18726' x='27236' y='10840'>
                 <layout-cache minheight='228' minwidth='156' type-h='scalable' type-w='scalable' />
                 <zone-style>
                   <format attr='border-color' value='#e6e6e6' />
@@ -1483,7 +1555,7 @@
                   <format attr='margin' value='0' />
                 </zone-style>
               </zone>
-              <zone fixed-size='241' h='46005' id='9' is-fixed='true' name='Income' w='18594' x='45963' y='10840'>
+              <zone fixed-size='241' h='46005' id='9' is-fixed='true' name='Income' w='18594' x='45962' y='10840'>
                 <layout-cache minheight='228' minwidth='156' type-h='scalable' type-w='scalable' />
                 <zone-style>
                   <format attr='border-color' value='#e6e6e6' />
@@ -1492,7 +1564,7 @@
                   <format attr='margin' value='0' />
                 </zone-style>
               </zone>
-              <zone h='20951' id='13' name='Armed' w='35031' x='64557' y='56880'>
+              <zone h='20951' id='13' name='Armed' w='35032' x='64556' y='56880'>
                 <zone-style>
                   <format attr='border-color' value='#e6e6e6' />
                   <format attr='border-style' value='solid' />
@@ -1500,7 +1572,7 @@
                   <format attr='margin' value='0' />
                 </zone-style>
               </zone>
-              <zone h='21525' id='14' name='Race/Ethnicity' w='35031' x='64557' y='77831'>
+              <zone h='21525' id='14' name='Race/Ethnicity' w='35032' x='64556' y='77831'>
                 <zone-style>
                   <format attr='border-color' value='#e6e6e6' />
                   <format attr='border-style' value='solid' />
@@ -1508,7 +1580,7 @@
                   <format attr='margin' value='0' />
                 </zone-style>
               </zone>
-              <zone h='22624' id='15' name='Gender' w='35031' x='64557' y='34256'>
+              <zone h='22624' id='15' name='Gender' w='35032' x='64556' y='34256'>
                 <zone-style>
                   <format attr='border-color' value='#e6e6e6' />
                   <format attr='border-style' value='solid' />
@@ -1516,7 +1588,7 @@
                   <format attr='margin' value='0' />
                 </zone-style>
               </zone>
-              <zone fixed-size='1186' forceUpdate='true' h='37666' id='5' is-fixed='true' type-v2='text' w='26825' x='412' y='10840'>
+              <zone fixed-size='1186' forceUpdate='true' h='37666' id='5' is-fixed='true' type-v2='text' w='26824' x='412' y='10840'>
                 <formatted-text>
                   <run fontalignment='1' fontcolor='#ffffff' fontname='Times New Roman' fontsize='16'>Risk Factors:</run>
                   <run fontalignment='1'>Æ&#10;&#10;</run>
@@ -1548,7 +1620,7 @@
                   <format attr='background-color' value='#4e79a7' />
                 </zone-style>
               </zone>
-              <zone h='5702' id='28' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:armed:nk]' type-v2='filter' values='database' w='26825' x='412' y='87839'>
+              <zone h='5702' id='28' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:armed:nk]' type-v2='filter' values='database' w='26824' x='412' y='87839'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1556,7 +1628,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='5838' id='29' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:month:nk]' type-v2='filter' values='database' w='26825' x='412' y='82001'>
+              <zone h='5838' id='29' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:month:nk]' type-v2='filter' values='database' w='26824' x='412' y='82001'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1564,7 +1636,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='5815' id='30' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:raceethnicity:nk]' type-v2='filter' values='database' w='26825' x='412' y='93541'>
+              <zone h='5815' id='30' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:raceethnicity:nk]' type-v2='filter' values='database' w='26824' x='412' y='93541'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1572,7 +1644,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='5897' id='33' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:SC_category:nk]' type-v2='filter' values='database' w='26825' x='412' y='76104'>
+              <zone h='5897' id='33' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:SC_category:nk]' type-v2='filter' values='database' w='26824' x='412' y='76104'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1580,7 +1652,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='5796' id='46' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:age_group:nk]' type-v2='filter' values='database' w='26825' x='412' y='58729'>
+              <zone h='5796' id='46' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:age_group:nk]' type-v2='filter' values='database' w='26824' x='412' y='58729'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1588,7 +1660,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='5777' id='49' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:income_bracket:nk]' type-v2='filter' values='database' w='26825' x='412' y='64525'>
+              <zone h='5777' id='49' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:income_bracket:nk]' type-v2='filter' values='database' w='26824' x='412' y='64525'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1596,7 +1668,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='5802' id='52' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:pop_group:nk]' type-v2='filter' values='database' w='26825' x='412' y='70302'>
+              <zone h='5802' id='52' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:pop_group:nk]' type-v2='filter' values='database' w='26824' x='412' y='70302'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1604,7 +1676,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='4275' id='60' name='Reset Filter' show-title='false' w='26825' x='412' y='48506'>
+              <zone h='4275' id='60' name='Reset Filter' show-title='false' w='26824' x='412' y='48506'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1613,7 +1685,7 @@
                   <format attr='background-color' value='#4e79a7' />
                 </zone-style>
               </zone>
-              <zone h='5948' id='63' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:gender:nk]' type-v2='filter' values='database' w='26825' x='412' y='52781'>
+              <zone h='5948' id='63' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:gender:nk]' type-v2='filter' values='database' w='26824' x='412' y='52781'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1623,7 +1695,7 @@
               </zone>
             </zone>
           </zone>
-          <zone forceUpdate='true' h='5430' id='64' type-v2='text' w='74558' x='412' y='644'>
+          <zone forceUpdate='true' h='5430' id='64' type-v2='text' w='74557' x='412' y='644'>
             <formatted-text>
               <run fontcolor='#ffffff' fontname='Times New Roman' fontsize='24'>Police Killing Incidents in the United States in 2015 from January - May</run>
             </formatted-text>
@@ -1635,7 +1707,7 @@
               <format attr='background-color' value='#4e79a7' />
             </zone-style>
           </zone>
-          <zone forceUpdate='true' h='10196' id='65' type-v2='text' w='24618' x='74970' y='644'>
+          <zone forceUpdate='true' h='10196' id='65' type-v2='text' w='24619' x='74969' y='644'>
             <formatted-text>
               <run fontalignment='1' fontcolor='#ffffff' fontname='Times New Roman' fontsize='12'>Total United States Police Killing Incidents</run>
               <run fontalignment='1'>Æ&#10;&#10;</run>
@@ -1649,7 +1721,7 @@
               <format attr='background-color' value='#4e79a7' />
             </zone-style>
           </zone>
-          <zone forceUpdate='true' h='4766' id='66' type-v2='text' w='74558' x='412' y='6074'>
+          <zone forceUpdate='true' h='4766' id='66' type-v2='text' w='74557' x='412' y='6074'>
             <formatted-text>
               <run fontcolor='#ffffff' fontname='Times New Roman' fontsize='17'>Resarch Question: </run>
               <run fontcolor='#ffffff' fontname='Times New Roman' fontsize='15'>Are there any risk factors that increase the likelihood of police killing incidents occuring?</run>
@@ -1682,8 +1754,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2750' minheight='2750' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='92' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98712' id='91' param='vert' type-v2='layout-flow' w='99176' x='412' y='644'>
+            <zone h='100000' id='94' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98712' id='93' param='vert' type-v2='layout-flow' w='99176' x='412' y='644'>
                 <zone h='98712' id='36' type-v2='text' w='257' x='411' y='644'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1694,7 +1766,7 @@
                     <format attr='background-color' value='#e6e6e6' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='5430' id='64' type-v2='text' w='74558' x='412' y='644'>
+                <zone forceUpdate='true' h='5430' id='64' type-v2='text' w='74557' x='412' y='644'>
                   <formatted-text>
                     <run fontcolor='#ffffff' fontname='Times New Roman' fontsize='24'>Police Killing Incidents in the United States in 2015 from January - May</run>
                   </formatted-text>
@@ -1707,7 +1779,7 @@
                     <format attr='background-color' value='#4e79a7' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='10196' id='65' type-v2='text' w='24618' x='74970' y='644'>
+                <zone forceUpdate='true' h='10196' id='65' type-v2='text' w='24619' x='74969' y='644'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#ffffff' fontname='Times New Roman' fontsize='12'>Total United States Police Killing Incidents</run>
                     <run fontalignment='1'>Æ&#10;&#10;</run>
@@ -1722,7 +1794,7 @@
                     <format attr='background-color' value='#4e79a7' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='4766' id='66' type-v2='text' w='74558' x='412' y='6074'>
+                <zone forceUpdate='true' h='4766' id='66' type-v2='text' w='74557' x='412' y='6074'>
                   <formatted-text>
                     <run fontcolor='#ffffff' fontname='Times New Roman' fontsize='17'>Resarch Question: </run>
                     <run fontcolor='#ffffff' fontname='Times New Roman' fontsize='15'>Are there any risk factors that increase the likelihood of police killing incidents occuring?</run>
@@ -1736,7 +1808,7 @@
                     <format attr='background-color' value='#4e79a7' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='1186' forceUpdate='true' h='37666' id='5' type-v2='text' w='26825' x='412' y='10840'>
+                <zone fixed-size='1186' forceUpdate='true' h='37666' id='5' type-v2='text' w='26824' x='412' y='10840'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#ffffff' fontname='Times New Roman' fontsize='16'>Risk Factors:</run>
                     <run fontalignment='1'>Æ&#10;&#10;</run>
@@ -1769,7 +1841,7 @@
                     <format attr='background-color' value='#4e79a7' />
                   </zone-style>
                 </zone>
-                <zone h='5702' id='28' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:armed:nk]' type-v2='filter' values='database' w='26825' x='412' y='87839'>
+                <zone h='5702' id='28' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:armed:nk]' type-v2='filter' values='database' w='26824' x='412' y='87839'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1778,7 +1850,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='5838' id='29' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:month:nk]' type-v2='filter' values='database' w='26825' x='412' y='82001'>
+                <zone h='5838' id='29' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:month:nk]' type-v2='filter' values='database' w='26824' x='412' y='82001'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1787,7 +1859,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='5815' id='30' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:raceethnicity:nk]' type-v2='filter' values='database' w='26825' x='412' y='93541'>
+                <zone h='5815' id='30' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:raceethnicity:nk]' type-v2='filter' values='database' w='26824' x='412' y='93541'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1796,7 +1868,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='5897' id='33' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:SC_category:nk]' type-v2='filter' values='database' w='26825' x='412' y='76104'>
+                <zone h='5897' id='33' mode='checkdropdown' name='Age' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:SC_category:nk]' type-v2='filter' values='database' w='26824' x='412' y='76104'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1805,7 +1877,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='46005' id='8' is-fixed='true' name='Age' w='18726' x='27237' y='10840'>
+                <zone fixed-size='280' h='46005' id='8' is-fixed='true' name='Age' w='18726' x='27236' y='10840'>
                   <layout-cache minheight='228' minwidth='156' type-h='scalable' type-w='scalable' />
                   <zone-style>
                     <format attr='border-color' value='#e6e6e6' />
@@ -1815,7 +1887,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='46005' id='9' is-fixed='true' name='Income' w='18594' x='45963' y='10840'>
+                <zone fixed-size='280' h='46005' id='9' is-fixed='true' name='Income' w='18594' x='45962' y='10840'>
                   <layout-cache minheight='228' minwidth='156' type-h='scalable' type-w='scalable' />
                   <zone-style>
                     <format attr='border-color' value='#e6e6e6' />
@@ -1825,7 +1897,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='179' h='23416' id='12' is-fixed='true' name='Month' w='35031' x='64557' y='10840'>
+                <zone fixed-size='179' h='23416' id='12' is-fixed='true' name='Month' w='35032' x='64556' y='10840'>
                   <zone-style>
                     <format attr='border-color' value='#e6e6e6' />
                     <format attr='border-style' value='solid' />
@@ -1834,7 +1906,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='5796' id='46' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:age_group:nk]' type-v2='filter' values='database' w='26825' x='412' y='58729'>
+                <zone h='5796' id='46' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:age_group:nk]' type-v2='filter' values='database' w='26824' x='412' y='58729'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1843,7 +1915,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='5777' id='49' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:income_bracket:nk]' type-v2='filter' values='database' w='26825' x='412' y='64525'>
+                <zone h='5777' id='49' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:income_bracket:nk]' type-v2='filter' values='database' w='26824' x='412' y='64525'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1852,7 +1924,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='5802' id='52' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:pop_group:nk]' type-v2='filter' values='database' w='26825' x='412' y='70302'>
+                <zone h='5802' id='52' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:pop_group:nk]' type-v2='filter' values='database' w='26824' x='412' y='70302'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1861,7 +1933,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='5948' id='63' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:gender:nk]' type-v2='filter' values='database' w='26825' x='412' y='52781'>
+                <zone h='5948' id='63' mode='checkdropdown' name='Gender' param='[federated.1j6lfub0xwpauc13tiqc107t6i88].[none:gender:nk]' type-v2='filter' values='database' w='26824' x='412' y='52781'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1870,7 +1942,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='173' h='22624' id='15' is-fixed='true' name='Gender' w='35031' x='64557' y='34256'>
+                <zone fixed-size='173' h='22624' id='15' is-fixed='true' name='Gender' w='35032' x='64556' y='34256'>
                   <zone-style>
                     <format attr='border-color' value='#e6e6e6' />
                     <format attr='border-style' value='solid' />
@@ -1879,7 +1951,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='34' h='4275' id='60' is-fixed='true' name='Reset Filter' show-title='false' w='26825' x='412' y='48506'>
+                <zone fixed-size='34' h='4275' id='60' is-fixed='true' name='Reset Filter' show-title='false' w='26824' x='412' y='48506'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1889,7 +1961,7 @@
                     <format attr='background-color' value='#4e79a7' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='42511' id='10' is-fixed='true' name='Pop_Size' w='18726' x='27237' y='56845'>
+                <zone fixed-size='280' h='42511' id='10' is-fixed='true' name='Pop_Size' w='18726' x='27236' y='56845'>
                   <layout-cache minheight='226' minwidth='167' type-h='scalable' type-w='scalable' />
                   <zone-style>
                     <format attr='border-color' value='#e6e6e6' />
@@ -1899,7 +1971,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='42511' id='11' is-fixed='true' name='Share_Caucasian' w='18594' x='45963' y='56845'>
+                <zone fixed-size='280' h='42511' id='11' is-fixed='true' name='Share_Caucasian' w='18594' x='45962' y='56845'>
                   <zone-style>
                     <format attr='border-color' value='#e6e6e6' />
                     <format attr='border-style' value='solid' />
@@ -1908,7 +1980,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='160' h='20951' id='13' is-fixed='true' name='Armed' w='35031' x='64557' y='56880'>
+                <zone fixed-size='160' h='20951' id='13' is-fixed='true' name='Armed' w='35032' x='64556' y='56880'>
                   <zone-style>
                     <format attr='border-color' value='#e6e6e6' />
                     <format attr='border-style' value='solid' />
@@ -1917,7 +1989,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='164' h='21525' id='14' is-fixed='true' name='Race/Ethnicity' w='35031' x='64557' y='77831'>
+                <zone fixed-size='164' h='21525' id='14' is-fixed='true' name='Race/Ethnicity' w='35032' x='64556' y='77831'>
                   <zone-style>
                     <format attr='border-color' value='#e6e6e6' />
                     <format attr='border-style' value='solid' />
